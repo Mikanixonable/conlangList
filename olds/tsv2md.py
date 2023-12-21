@@ -13,10 +13,10 @@ def detect_encoding(file_path):
         detector.close()
     return detector.result['encoding']
 
-def csv2dic(file_path):
+def tsv2dic(file_path):
     encoding = detect_encoding(file_path)
     with open(file_path, 'r', newline='', encoding=encoding) as file:
-        reader = csv.DictReader(file, delimiter=',')
+        reader = csv.DictReader(file, delimiter='\t')
         dic = []
         for row in reader:
             for key,value in list(row.items()):
@@ -28,65 +28,125 @@ def csv2dic(file_path):
             #空なら入れない
             if len(row.keys()) != 0:
                 dic.append(row)
-
         return dic
-    
-
-
 
 def dic2md(dic):
+    md = ''
+    for lang in dic:
+        if 'サイト' in lang:
+            md += "### "+"[{a}]({b})".format(a=lang["言語名"][0],b=lang['サイト'][0])
+        else:
+            md += "### "+"{a}".format(a=lang["言語名"][0])
+        if "年代" in lang:
+             md += "\n年代: "+lang["年代"][0]
+        if "説明" in lang:
+            for text in lang["説明"]:
+                md += "\n　"+text
+        
+
+        
+        md+="\n"
+        for key,value in list(lang.items()):
+            if key not in ["説明","年代"]:
+                # md+="\n"
+                if key == "作者Twitter":
+                    md+="作者Twitter: [@{a}]({b}) ".format(k=key,a=value[0].split("com/")[1],b=value[0])
+                elif value[0][0:4] == "http":
+                     for i,elm in enumerate(value): 
+                        index = str(i+1)
+                        if i == 0:
+                            index = ""
+                        md+="[{k}]({v}) ".format(k=str(key)+str(index),v=elm)
+                else:
+                    md+="{k}: {v}".format(k=key,v=" ".join(value))
+        md += "\n\n"
+    
+    return md
+
+def dic2md2(dic):
+    legends = ["年代","作者","サイト","文法","辞書","架空世界","分類"]
+    md = '|言語名|年代|作者|サイト|文法|辞書|架空世界|分類|'
+    md += '\n|---|---|---|---|---|---|---|---|'
+    for lang in dic:
+        if 'site' in lang:
+            md += "\n|[{a}]({b})".format(a=lang["言語名"][0],b=lang['site'][0])
+        else:
+            md += "\n|{a}".format(a=lang["言語名"][0])
+        
+
+
+        for legend in legends:
+            md +="|"
+            if legend in lang:
+                if lang[legend][0][0:4] == "http":
+                    md +="[{a}]({b})".format(a=legend,b=lang[legend][0])
+                else:
+                    md +=lang[legend][0]
+            else:
+                md+=' '
+        
+        md+="|"
+    
+    return md
+
+def dic2md3(dic):
     md = '|言語名|活動年代|作者|'
     md += '\n|---|---|---|'
     for lang in dic:
-        name = ''
+        aa = ''
         if 'サイト' in lang:
-            name += "[{a}]({b})".format(a=lang["言語名"][0],b=lang['サイト'][0])
+            aa += "[{a}]({b})".format(a=lang["言語名"][0],b=lang['サイト'][0])
         else:
-            name += "{a}".format(a=lang["言語名"][0])
+            aa += "{a}".format(a=lang["言語名"][0])
 
- 
-        if len(lang['言語名'])>2:
-            for i in range(len(lang['言語名']) - 1):
-                name += ', '+lang['言語名'][i+1]
-
-        year = lang['年代'][0]
+        a = lang['年代'][0]
 
 
-        artist = ''
+        b = ''
         if '作者' in lang:
             if '作者Twitter' in lang:
-                artist += '[{a}]({b})'.format(a=lang['作者'][0],b=lang['作者Twitter'][0])
+                b += '[{a}]({b})'.format(a=lang['作者'][0],b=['作者Twitter'][0])
             else:
-                artist += lang['作者'][0]
-        if '作者' in lang:
-            if len(lang['作者'])>2:
-                for i in range(len(lang['作者']) - 1):
-                    artist+= ', '+lang['作者'][i+1]
+                b += lang['作者'][0]
+        # if '説明' in lang:
+        #     b += lang['説明'][0]
         
-        
-        links = '   '
+        c = ''
         if 'サイト' in lang:
             if len(lang['サイト'])>2:
                 for i in range(len(lang['サイト']) - 1):
-                    links+= '([サイト{i}]({a}))'.format(i=str(i+2),a = lang['サイト'][i+1])
+                    c+= '([サイト{i}]({a}))'.format(i=str(i+2),a = lang['サイト'][i+1])
         if '文法' in lang:
-            links += '([文法]({a}))'.format(a = lang['文法'][0])
+            c += '([文法]({a}))'.format(a = lang['文法'][0])
             
         if '文法' in lang:
             if len(lang['文法'])>2:
                 for i in range(len(lang['文法']) - 1):
-                    links+= '([文法{i}]({a}))'.format(i=str(i+2),a = lang['文法'][i+1])
+                    c+= '([文法{i}]({a}))'.format(i=str(i+2),a = lang['文法'][i+1])
         
         if '辞書' in lang:
-            links += '([辞書]({a}))'.format(a = lang['辞書'][0])
+            c += '([辞書]({a}))'.format(a = lang['辞書'][0])
 
         if '辞書' in lang:
             if len(lang['辞書'])>2:
                 for i in range(len(lang['辞書']) - 1):
-                    links+= '([辞書{i}]({a}))'.format(i=str(i+2),a = lang['辞書'][i+1])
+                    c+= '([辞書{i}]({a}))'.format(i=str(i+2),a = lang['辞書'][i+1])
 
-        md +="\n|{a}{d}|{b}|{c}|".format(a=name,b=year,c=artist,d=links)
+
+        md +="\n|{a}     {d}|{b}|{c}|".format(a=aa,b=a,c=b,d=c)
+
+
+        # if legend in lang:
+        #     if legend
+        #     if lang[legend][0][0:4] == "http":
+        #         md +="[{a}]({b})".format(a=legend,b=lang[legend][0])
+        #     else:
+        #         md +=lang[legend][0]
+        # else:
+        #     md+=' '
+        
         md+="|"
+    
     return md
 
 
@@ -94,12 +154,6 @@ md = """
 
 # 日本語圏人工言語リスト(2023年12月)
 　日本語圏の人工言語のリストが最近作られていないと思ったので、底となるリストを参考に、新しい言語も合わせてつくったものです。リストのすべての言語の情報は私がアクセスして確認しなおしています。
-　このリストは後で作るリストのための下準備という位置づけで、人工言語として言及されているものは見つけ次第すべて入れています。そのため、創作世界の設定に名前だけ登場するような言語や、ツイッター上で思い付きで作られた言語も含んでいます。
-　言語の説明やCLAコードの入った生データは以下のリンクからアクセスできます。tsv(タブ区切り値)形式であり、Excelから開けます。私は著作権を放棄するので、利用したい方は使ってください。
-https://mikanixonable.github.io/data/conlang.tsv
-
-追記 utf-8でcsv形式に書き直しました
-https://mikanixonable.github.io/data/conlang.csv
 
 ## 底としたリスト
 - [人工言語リスト 日本人による人工言語（アイウエオ順）](http://dos.chottu.net/conlang_link.html?l=index) - 2nd LVG IMG.The Second Living Image.
@@ -152,19 +206,18 @@ https://mikanixonable.github.io/data/conlang.csv
 - [世界模擬実験塔設定集](https://w.atwiki.jp/koreori/) - atwiki（アットウィキ） 
 """
 
-dic = csv2dic('conlang.csv')
+dic = tsv2dic('conlang.tsv')
 for lang in dic:
     if '年代' not in lang:
         print(lang['言語名'])
-pprint(dic)
 dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
-
+pprint(dic)
 
 
 md +="""
 ## 人工言語リスト
 """
-md += dic2md(dic)
+md += dic2md3(dic)
 
 md += """
 

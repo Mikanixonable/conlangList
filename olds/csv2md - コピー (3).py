@@ -20,7 +20,7 @@ def csv2dic(file_path):
         dic = []
         for row in reader:
             for key,value in list(row.items()):
-                row[key] = row[key].split(",")
+                row[key] = row[key].split("_")
                 #空なら入れない
                 if value =='':
                     del row[key]
@@ -28,9 +28,7 @@ def csv2dic(file_path):
             #空なら入れない
             if len(row.keys()) != 0:
                 dic.append(row)
-
         return dic
-    
 
 
 
@@ -156,9 +154,8 @@ dic = csv2dic('conlang.csv')
 for lang in dic:
     if '年代' not in lang:
         print(lang['言語名'])
-pprint(dic)
 dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
-
+pprint(dic)
 
 
 md +="""
