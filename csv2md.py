@@ -171,7 +171,7 @@ for lang in dic:
         print(lang['言語名'])
 # pprint(dic)
 dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
-
+print(len(dic))
 
 
 md +="""

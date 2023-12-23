@@ -1,0 +1,574 @@
+{
+  "entries": [
+    {
+      "normalized": "kn_ja_jpx_kwn",
+      "bcp47": "x-v3-kwnjpxja-kn",
+      "codes": {
+        "dialect": "kn",
+        "language": "ja",
+        "family": "jpx",
+        "user": "kwn"
+      },
+      "names": {
+        "dialect": "川音方言",
+        "language": "日本語",
+        "family": "日流語族",
+        "user": "川音リオ"
+      },
+      "approved": true,
+      "createdDate": "2022-08-22T11:14:13.553Z",
+      "approvedDate": "2022-11-23T11:09:10.072Z"
+    },
+    {
+      "normalized": "we_gw_~_kuk",
+      "bcp47": "x-v3-kuk0gw-we",
+      "codes": {
+        "dialect": "we",
+        "language": "gw",
+        "family": "~",
+        "user": "kuk"
+      },
+      "names": {
+        "dialect": "西方方言",
+        "language": "グェーゼル語",
+        "family": "",
+        "user": "空気。"
+      },
+      "approved": true,
+      "createdDate": "2022-06-03T13:43:45.385Z",
+      "approvedDate": "2022-06-07T11:26:29.172Z"
+    },
+    {
+      "normalized": "es_gw_~_kuk",
+      "bcp47": "x-v3-kuk0gw-es",
+      "codes": {
+        "dialect": "es",
+        "language": "gw",
+        "family": "~",
+        "user": "kuk"
+      },
+      "names": {
+        "dialect": "東方方言",
+        "language": "グェーゼル語",
+        "family": "",
+        "user": "空気。"
+      },
+      "approved": true,
+      "createdDate": "2022-06-03T13:44:53.456Z",
+      "approvedDate": "2022-06-07T11:26:27.823Z"
+    },
+    {
+      "normalized": "~_kw_han_vid",
+      "bcp47": "x-v3-vidhankw-0",
+      "codes": {
+        "dialect": "~",
+        "language": "kw",
+        "family": "han",
+        "user": "vid"
+      },
+      "names": {
+        "dialect": "",
+        "language": "クァン語",
+        "family": "ハン語族",
+        "user": "Voidies／kyomu_aniki"
+      },
+      "approved": true,
+      "createdDate": "2022-06-02T14:22:16.039Z",
+      "approvedDate": "2022-06-07T11:26:25.653Z"
+    },
+    {
+      "normalized": "~_au_aru_lak",
+      "bcp47": "x-v3-lakaruau-0",
+      "codes": {
+        "dialect": "~",
+        "language": "au",
+        "family": "aru",
+        "user": "lak"
+      },
+      "names": {
+        "dialect": "",
+        "language": "アルパヌ語",
+        "family": "アルパヌ語",
+        "user": "ラクシュ語"
+      },
+      "approved": true,
+      "createdDate": "2022-02-13T09:13:36.239Z",
+      "approvedDate": "2022-06-01T15:38:29.176Z"
+    },
+    {
+      "normalized": "~_tl_~_mqe",
+      "bcp47": "x-v3-mqe0tl-0",
+      "codes": {
+        "dialect": "~",
+        "language": "tl",
+        "family": "~",
+        "user": "mqe"
+      },
+      "names": {
+        "dialect": "",
+        "language": "玄縁語",
+        "family": "",
+        "user": "マクェン語"
+      },
+      "approved": true,
+      "createdDate": "2022-02-13T08:55:33.153Z",
+      "approvedDate": "2022-06-01T15:38:27.632Z"
+    },
+    {
+      "normalized": "~_sw_swq_vid",
+      "bcp47": "x-v3-vidswqsw-0",
+      "codes": {
+        "dialect": "~",
+        "language": "sw",
+        "family": "swq",
+        "user": "vid"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ソウキ語",
+        "family": "ソウキ語族",
+        "user": "Voidies／kyomu_aniki"
+      },
+      "approved": true,
+      "createdDate": "2022-06-01T12:55:24.043Z",
+      "approvedDate": "2022-06-01T15:37:21.452Z"
+    },
+    {
+      "normalized": "~_os_fzb_brl",
+      "bcp47": "x-v3-brlfzbos-0",
+      "codes": {
+        "dialect": "~",
+        "language": "os",
+        "family": "fzb",
+        "user": "brl"
+      },
+      "names": {
+        "dialect": "",
+        "language": "Osjernje'bix[bixnē'ex](ウシェルニェク語[方言])",
+        "family": "Ƣeznē'bix voб.(オ゛ェｼﾞｭルニョェーッ語族)",
+        "user": "Brxōdƣez, lanva?!"
+      },
+      "approved": true,
+      "createdDate": "2022-01-12T15:21:18.254Z",
+      "approvedDate": "2022-01-12T15:44:07.226Z"
+    },
+    {
+      "normalized": "~_fz_fzb_brl",
+      "bcp47": "x-v3-brlfzbfz-0",
+      "codes": {
+        "dialect": "~",
+        "language": "fz",
+        "family": "fzb",
+        "user": "brl"
+      },
+      "names": {
+        "dialect": "",
+        "language": "Ƣeznē'bix(オ゛ェｼﾞｭルニョェーッ語)",
+        "family": "Ƣeznē'bix voб.(オ゛ェｼﾞｭルニョェーッ語族)",
+        "user": "Brxōdƣez, lanva?!"
+      },
+      "approved": true,
+      "createdDate": "2022-01-12T15:13:36.675Z",
+      "approvedDate": "2022-01-12T15:44:06.250Z"
+    },
+    {
+      "normalized": "gr_fz_fzb_brl",
+      "bcp47": "x-v3-brlfzbfz-gr",
+      "codes": {
+        "dialect": "gr",
+        "language": "fz",
+        "family": "fzb",
+        "user": "brl"
+      },
+      "names": {
+        "dialect": "Grwenbixnē'ex(碧雲方言)<北部方言群>",
+        "language": "Ƣeznē'bix(オ゛ェｼﾞｭルニョェーッ語)",
+        "family": "Ƣeznē'bix voб.(オ゛ェｼﾞｭルニョェーッ語族)",
+        "user": "Brxōdƣez, lanva?!"
+      },
+      "approved": true,
+      "createdDate": "2022-01-12T15:41:53.132Z",
+      "approvedDate": "2022-01-12T15:44:04.979Z"
+    },
+    {
+      "normalized": "nf_ll_rfl_jrl",
+      "bcp47": "x-v3-jrlrflll-nf",
+      "codes": {
+        "dialect": "nf",
+        "language": "ll",
+        "family": "rfl",
+        "user": "jrl"
+      },
+      "names": {
+        "dialect": "現代標準語",
+        "language": "リパライン語",
+        "family": "リパラオネ語族",
+        "user": "総合創作サークル「悠里」"
+      },
+      "approved": true,
+      "createdDate": "2021-12-23T10:40:05.880Z",
+      "approvedDate": "2022-01-12T14:39:05.285Z"
+    },
+    {
+      "normalized": "jo_fn_fun_kar",
+      "bcp47": "x-v3-karfunfn-jo",
+      "codes": {
+        "dialect": "jo",
+        "language": "fn",
+        "family": "fun",
+        "user": "kar"
+      },
+      "names": {
+        "dialect": "上都標準語",
+        "language": "雰語",
+        "family": "雰語族",
+        "user": "かえる"
+      },
+      "approved": true,
+      "createdDate": "2021-12-07T07:56:00.714Z",
+      "approvedDate": "2022-01-12T14:39:04.350Z"
+    },
+    {
+      "normalized": "dd_ll_fff_ccc",
+      "bcp47": "x-v3-cccfffll-dd",
+      "codes": {
+        "dialect": "dd",
+        "language": "ll",
+        "family": "fff",
+        "user": "ccc"
+      },
+      "names": {
+        "dialect": "Example Dialect",
+        "language": "Example Language",
+        "family": "Example Family",
+        "user": "Example Creator(s)"
+      },
+      "approved": true,
+      "createdDate": "2021-11-18T05:01:01.465Z",
+      "approvedDate": "2022-01-12T14:39:03.490Z"
+    },
+    {
+      "normalized": "~_lk_~_lak",
+      "bcp47": "x-v3-lak0lk-0",
+      "codes": {
+        "dialect": "~",
+        "language": "lk",
+        "family": "~",
+        "user": "lak"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ラクシュ語",
+        "family": "",
+        "user": "ラクシュ語"
+      },
+      "approved": true,
+      "createdDate": "2021-12-01T13:41:09.174Z",
+      "approvedDate": "2021-12-02T11:24:58.824Z"
+    },
+    {
+      "normalized": "~_id_~_zas",
+      "bcp47": "x-v3-zas0id-0",
+      "codes": {
+        "dialect": "~",
+        "language": "id",
+        "family": "~",
+        "user": "zas"
+      },
+      "names": {
+        "dialect": "",
+        "language": "イジェール語",
+        "family": "",
+        "user": "Zaslon"
+      },
+      "approved": true,
+      "createdDate": "2021-10-24T07:54:15.801Z",
+      "approvedDate": "2021-11-10T06:40:55.894Z"
+    },
+    {
+      "normalized": "~_bm_~_mqe",
+      "bcp47": "x-v3-mqe0bm-0",
+      "codes": {
+        "dialect": "~",
+        "language": "bm",
+        "family": "~",
+        "user": "mqe"
+      },
+      "names": {
+        "dialect": "",
+        "language": "マクェン語",
+        "family": "",
+        "user": "マクェン語"
+      },
+      "approved": true,
+      "createdDate": "2021-09-10T09:58:30.268Z",
+      "approvedDate": "2021-09-10T14:26:55.553Z"
+    },
+    {
+      "normalized": "~_dm_wys_phe",
+      "bcp47": "x-v3-phewysdm-0",
+      "codes": {
+        "dialect": "~",
+        "language": "dm",
+        "family": "wys",
+        "user": "phe"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ディミト語/うぐ語",
+        "family": "ウュス語群",
+        "user": "Phenyllithium"
+      },
+      "approved": true,
+      "createdDate": "2021-09-04T15:56:54.827Z",
+      "approvedDate": "2021-09-05T07:23:45.209Z"
+    },
+    {
+      "normalized": "~_ca_~_lmb",
+      "bcp47": "x-v3-lmb0ca-0",
+      "codes": {
+        "dialect": "~",
+        "language": "ca",
+        "family": "~",
+        "user": "lmb"
+      },
+      "names": {
+        "dialect": "",
+        "language": "カルコレーシュ語",
+        "family": "",
+        "user": "らんべ"
+      },
+      "approved": true,
+      "createdDate": "2021-09-03T17:27:27.271Z",
+      "approvedDate": "2021-09-04T05:15:17.150Z"
+    },
+    {
+      "normalized": "~_as_~_arx",
+      "bcp47": "x-v3-arx0as-0",
+      "codes": {
+        "dialect": "~",
+        "language": "as",
+        "family": "~",
+        "user": "arx"
+      },
+      "names": {
+        "dialect": "",
+        "language": "アルカ",
+        "family": "",
+        "user": "アルシディア"
+      },
+      "approved": true,
+      "createdDate": "2021-09-01T11:17:36.424Z",
+      "approvedDate": "2021-09-01T11:53:46.887Z"
+    },
+    {
+      "normalized": "~_ng_~_arx",
+      "bcp47": "x-v3-arx0ng-0",
+      "codes": {
+        "dialect": "~",
+        "language": "ng",
+        "family": "~",
+        "user": "arx"
+      },
+      "names": {
+        "dialect": "",
+        "language": "凪霧",
+        "family": "",
+        "user": "アルシディア"
+      },
+      "approved": true,
+      "createdDate": "2021-09-01T11:18:56.177Z",
+      "approvedDate": "2021-09-01T11:43:16.359Z"
+    },
+    {
+      "normalized": "~_nc_cri_fli",
+      "bcp47": "x-v3-flicrinc-0",
+      "codes": {
+        "dialect": "~",
+        "language": "nc",
+        "family": "cri",
+        "user": "fli"
+      },
+      "names": {
+        "dialect": "",
+        "language": "Ŋarâþ Crîþ",
+        "family": "The conworld that includes Crîþja",
+        "user": "+merlan #flirora"
+      },
+      "approved": true,
+      "createdDate": "2021-09-01T05:45:46.658Z",
+      "approvedDate": "2021-09-01T06:08:58.985Z"
+    },
+    {
+      "normalized": "go_gy_grx_ghr",
+      "bcp47": "x-v3-ghrgrxgy-go",
+      "codes": {
+        "dialect": "go",
+        "language": "gy",
+        "family": "grx",
+        "user": "ghr"
+      },
+      "names": {
+        "dialect": "暁国首都弁",
+        "language": "暁祖語",
+        "family": "暁錬語族",
+        "user": "暁理"
+      },
+      "approved": true,
+      "createdDate": "2021-09-01T02:10:43.712Z",
+      "approvedDate": "2021-09-01T04:56:58.068Z"
+    },
+    {
+      "normalized": "~_di_~_lan",
+      "bcp47": "x-v3-lan0di-0",
+      "codes": {
+        "dialect": "~",
+        "language": "di",
+        "family": "~",
+        "user": "lan"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ランディ",
+        "family": "",
+        "user": "人工言語ランディ"
+      },
+      "approved": true,
+      "createdDate": "2021-09-01T01:57:22.148Z",
+      "approvedDate": "2021-09-01T04:53:51.429Z"
+    },
+    {
+      "normalized": "~_ln_lml_qnt",
+      "bcp47": "x-v3-qntlmlln-0",
+      "codes": {
+        "dialect": "~",
+        "language": "ln",
+        "family": "lml",
+        "user": "qnt"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ルエン語",
+        "family": "レミール大陸語族",
+        "user": "Qunoxts"
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T15:52:45.649Z",
+      "approvedDate": "2021-08-31T15:53:12.028Z"
+    },
+    {
+      "normalized": "~_ne_klt_nhl",
+      "bcp47": "x-v3-nhlkltne-0",
+      "codes": {
+        "dialect": "~",
+        "language": "ne",
+        "family": "klt",
+        "user": "nhl"
+      },
+      "names": {
+        "dialect": "",
+        "language": "ネサルゼルデ語",
+        "family": "コルサレス言語群",
+        "user": "Nihil"
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T15:39:36.839Z",
+      "approvedDate": "2021-08-31T15:45:53.567Z"
+    },
+    {
+      "normalized": "~_zz_~_sky",
+      "bcp47": "x-v3-sky0zz-0",
+      "codes": {
+        "dialect": "~",
+        "language": "zz",
+        "family": "~",
+        "user": "sky"
+      },
+      "names": {
+        "dialect": "",
+        "language": "22（国際補助語）",
+        "family": "",
+        "user": "skytomo"
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T14:37:30.484Z",
+      "approvedDate": "2021-08-31T14:38:17.824Z"
+    },
+    {
+      "normalized": "~_al_fog_hal",
+      "bcp47": "x-v3-halfogal-0",
+      "codes": {
+        "dialect": "~",
+        "language": "al",
+        "family": "fog",
+        "user": "hal"
+      },
+      "names": {
+        "dialect": "",
+        "language": "Algelang(アルゲラン)",
+        "family": "Fogiel Group(フォギール語群)",
+        "user": "佐藤陽花"
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T12:33:14.710Z",
+      "approvedDate": "2021-08-31T12:33:22.494Z"
+    },
+    {
+      "normalized": "~_yh_~_aii",
+      "bcp47": "x-v3-aii0yh-0",
+      "codes": {
+        "dialect": "~",
+        "language": "yh",
+        "family": "~",
+        "user": "aii"
+      },
+      "names": {
+        "dialect": "",
+        "language": "フュトル",
+        "family": "",
+        "user": "A.I."
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T11:42:42.600Z",
+      "approvedDate": "2021-08-31T12:23:43.944Z"
+    },
+    {
+      "normalized": "~_xl_~_zph",
+      "bcp47": "x-v3-zph0xl-0",
+      "codes": {
+        "dialect": "~",
+        "language": "xl",
+        "family": "~",
+        "user": "zph"
+      },
+      "names": {
+        "dialect": "",
+        "language": "シャレイア語",
+        "family": "",
+        "user": "Ziphil"
+      },
+      "approved": true,
+      "createdDate": "2021-08-31T10:41:01.664Z",
+      "approvedDate": "2021-08-31T11:27:46.171Z"
+    },
+    {
+      "normalized": "~_qe_~_ver",
+      "bcp47": "x-v3-ver0qe-0",
+      "codes": {
+        "dialect": "~",
+        "language": "qe",
+        "family": "~",
+        "user": "ver"
+      },
+      "names": {
+        "dialect": "",
+        "language": "クェントーレ語 ʕ Խ̆ωζψo˞ճω-vωζճ ʔ",
+        "family": "",
+        "user": "Лωξիωſ"
+      },
+      "approved": false,
+      "createdDate": "2022-11-03T01:53:10.495Z",
+      "approvedDate": null
+    }
+  ]
+}
