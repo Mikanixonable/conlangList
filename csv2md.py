@@ -94,7 +94,7 @@ def dic2md(dic):
 
 md = """
 
-# 日本語圏人工言語リスト4版(2023年12月)
+# 日本語圏人工言語リスト5版(2023年12月)
 　日本語圏の人工言語のリストが最近作られていないと思ったので、底となるリストを参考に、新しい言語も合わせてつくったものです。リストのすべての言語の情報は私がアクセスして確認しなおしています。
 　このリストは後で作るリストのための下準備という位置づけで、人工言語として言及されているものは見つけ次第すべて入れています。そのため、創作世界の設定に名前だけ登場するような言語や、ツイッター上で思い付きで作られた言語も含んでいます。
 　言語の説明やCLAコードの入った生データは以下のリンクからアクセスできます。tsv(タブ区切り値)形式であり、Excelから開けます。私は著作権を放棄するので、利用したい方は使ってください。
@@ -103,10 +103,19 @@ md = """
 GitHub:  https://github.com/Mikanixonable/conlangList/blob/main/conlang.csv
 更新履歴(GitHub): https://github.com/Mikanixonable/conlangList/commits/main/conlang.csv
 
+## 更新履歴
 1版 2023-12-17
 2版 2023-12-18
 3版 2023-12-19
 4版 2023-12-21
+5版 2023-12-23
+
+## Babel Index Viewerの紹介
+[かえる](https://twitter.com/kaeru2193)さんが、人工言語リストの検索システムを作ってくれました!この検索システムでは説明欄やモユネ分類など、この表では表示の都合上省いている要素も調べることができます。
+https://tools.kaeru2193.net/Babel-Index-Viewer/
+万が一私のgithubリポジトリにアクセスできなくなればかえるさんのリポジトリから復元することができます
+https://github.com/kaeru2193/Conlang-List-Works/tree/main
+
 
 ## 底としたリスト
 - [人工言語リスト 日本人による人工言語（アイウエオ順）](http://dos.chottu.net/conlang_link.html?l=index) - 2nd LVG IMG.The Second Living Image.
