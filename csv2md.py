@@ -88,7 +88,7 @@ def dic2md(dic):
                     links+= '([辞書{i}]({a}))'.format(i=str(i+2),a = lang['辞書'][i+1])
 
         md +="\n|{a}{d}|{b}|{c}|".format(a=name,b=year,c=artist,d=links)
-        md+="|"
+        md+="|  "
     return md
 
 
