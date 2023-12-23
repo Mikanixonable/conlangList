@@ -1,0 +1,536 @@
+[{
+  "_id": {
+    "$oid": "612e073df2a13400161ba5aa"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "zph"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630406461669"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630409266179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e15b2f2a13400161ba7a1"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "aii"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630410162603"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630412623949"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e218af2a13400161bab8d"
+  },
+  "codes": {
+    "family": "fog",
+    "creator": "hal"
+  },
+  "name": "Fogiel Group(フォギール語群)",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630413194713"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630413199758"
+    }
+  },
+  "description": "フォギールはFOGIEL(Formal Grammatical Informaticsial Experimental Language、日本語：形式文法情報学的実験言語群)の頭字語"
+},{
+  "_id": {
+    "$oid": "612e3eaa7801f40016e83af9"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "sky"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630420650488"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630420697828"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e4d389e52d30016027a20"
+  },
+  "codes": {
+    "family": "klt",
+    "creator": "nhl"
+  },
+  "name": "コルサレス言語群",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630424376843"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630424753583"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e504d9e52d30016027ad3"
+  },
+  "codes": {
+    "family": "lml",
+    "creator": "qnt"
+  },
+  "name": "レミール大陸語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630425165669"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630425192034"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612ede0297e14100162a24db"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "lan"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630461442151"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472031433"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612ee12397e14100162a25be"
+  },
+  "codes": {
+    "family": "grx",
+    "creator": "ghr"
+  },
+  "name": "暁錬語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630462243714"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472218073"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f138a97e14100162a2755"
+  },
+  "codes": {
+    "family": "cri",
+    "creator": "fli"
+  },
+  "name": "The conworld that includes Crîþja",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630475146660"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630476538990"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f615097e14100162a33ba"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "arx"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630495056430"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630496595122"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61325aff13cd7c00164c0e13"
+  },
+  "codes": {
+    "family": "~",
+    "creator": "lmb"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630690047275"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630732517159"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6133974613cd7c00164c18cf"
+  },
+  "codes": {
+    "family": "wys",
+    "creator": "phe"
+  },
+  "name": "ウュス語群",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630771014832"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630826625221"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "613b2c46ed47c50016685a28"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "613b2c46ed47c50016685a29"
+    },
+    "creator": "mqe",
+    "family": "~"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1631267910283"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1631284015563"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61751127a44ab30016ec3142"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61751127a44ab30016ec3143"
+    },
+    "creator": "zas",
+    "family": "~"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1635062055814"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1636526455905"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6195de0d549a6400161774cb"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6195de0d549a6400161774cc"
+    },
+    "creator": "ccc",
+    "family": "fff"
+  },
+  "name": "Example Family",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1637211661473"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998343511"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61a77b75ed2c650016d2fb1c"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61a77b75ed2c650016d2fb1d"
+    },
+    "creator": "lak",
+    "family": "~"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638366069181"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1638444298842"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af1390371b860016b1ef94"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61af1390371b860016b1ef95"
+    },
+    "creator": "kar",
+    "family": "fun"
+  },
+  "name": "雰語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638863760726"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998344371"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c4520587ef180016deb14c"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61c4520587ef180016deb14d"
+    },
+    "creator": "jrl",
+    "family": "rfl"
+  },
+  "name": "リパラオネ語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1640256005886"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998345298"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61def020f346130016148601"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def020f346130016148602"
+    },
+    "creator": "brl",
+    "family": "fzb"
+  },
+  "name": "Ƣeznē'bix voб.(オ゛ェｼﾞｭルニョェーッ語族)",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642000416689"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002244992"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6208cbc0fd6d52001681697a"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6208cbc0fd6d52001681697b"
+    },
+    "creator": "lak",
+    "family": "aru"
+  },
+  "name": "アルパヌ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1644743616244"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097909181"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629761bc48cbf600160b66c8"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629761bc48cbf600160b66c9"
+    },
+    "creator": "vid",
+    "family": "swq"
+  },
+  "name": "ソウキ語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654088124049"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097841461"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6298c79802632b00169b4d9e"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6298c79802632b00169b4d9f"
+    },
+    "creator": "vid",
+    "family": "han"
+  },
+  "name": "ハン語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654179736051"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601185663"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629a1011f99792001645cd59"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629a1011f99792001645cd5a"
+    },
+    "creator": "kuk",
+    "family": "~"
+  },
+  "name": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654263825392"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601187831"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "630365052ddd780016a61df7"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "630365052ddd780016a61df8"
+    },
+    "creator": "kwn",
+    "family": "jpx"
+  },
+  "name": "日流語族",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1661166853565"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1669201750089"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63631f0663a4350016765e45"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "63631f0663a4350016765e46"
+    },
+    "creator": "ver",
+    "family": "~"
+  },
+  "name": "",
+  "approved": false,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1667440390500"
+    }
+  }
+}]

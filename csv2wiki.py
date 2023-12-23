@@ -1,6 +1,7 @@
 import csv
 import chardet
 from pprint import pprint 
+import re
 
 def detect_encoding(file_path):
     # ファイルのエンコーディングを検出
@@ -28,13 +29,10 @@ def csv2dic(file_path):
             #空なら入れない
             if len(row.keys()) != 0:
                 dic.append(row)
-
         return dic
-    
 
 
-
-def dic2md(dic):
+def dic2md2(dic):
     md = """
 {| class="wikitable" style="margin:auto"
 |+ 人工言語一覧
@@ -94,23 +92,100 @@ def dic2md(dic):
                 for i in range(len(lang['辞書']) - 1):
                     links+= '([{a} 辞書{i}])'.format(i=str(i+2),a = lang['辞書'][i+1])
 
-        md +="| {a} {d}|| {b} || {c}".format(a=name,b=year,c=artist,d=links)
+        md +="|{a} {d}|| {b} || {c}".format(a=name,b=year,c=artist,d=links)
     md+="|}\n"
     return md
 
+def dic2md(dic):
+    md = """{| class="wikitable" style="margin:auto"
+|+ 人工言語一覧
+|-
+! 言語名 !! 年代 !! 作者 !! 説明 !! 架空世界 !! 分類 !! 資料"""
+    for lang in dic:
+        md+='\n|-\n'
+
+        name = "{a}".format(a=lang["言語名"][0])
+
+
+        if len(lang['言語名'])>2:
+            name += '<br />異称: '
+            for i in range(len(lang['言語名']) - 1):
+                name += ', '+lang['言語名'][i+1]
+
+        if '漢字言語名' in lang:
+            name += '<br />漢字言語名: '
+            name += ', '.join(lang['漢字言語名'])
+
+        conworld = ''
+        if '架空世界' in lang:
+            conworld += ', '.join(lang['架空世界'])
+
+        genre = ''
+        if '分類' in lang:
+            genre += ', '.join(lang['分類'])
+
+        if 'モユネ分類' in lang:
+            genre += '<br />モユネ分類: '
+            genre += ', '.join(lang['モユネ分類'])
+        if 'CLAコード' in lang:
+            genre += '<br />CLAコード: '
+            genre += ', '.join(lang['CLAコード'])
+
+        year = ''
+        if '年代' in lang:
+            year = lang['年代'][0]
+
+        artist = ''
+        if '作者' in lang:
+            artist+= ', '.join(lang['作者'])
+        if '作者Twitter' in lang:
+            artist += '<br />twitter: '
+            artist += ', '.join(['[{a} @{b}]'.format(a=sakusha,b=sakusha.split('/')[3]) for sakusha in lang['作者Twitter']])
+
+        setumei = ''
+        if '説明' in lang:
+            setumei = '　<br />'.join(lang['説明'])
+        if '表記' in lang:
+            setumei += '<br />表記: '
+            setumei += ', '.join(lang['表記'])
+        if '例文' in lang:
+            setumei += '<br />説明: '
+            setumei += ', '.join(lang['例文'])
+        links = '   '
+        if 'サイト' in lang:
+            if len(lang['サイト'])>2:
+                for i in range(len(lang['サイト']) - 1):
+                    links+= '[{a} サイト{i}]'.format(i=str(i+2),a = lang['サイト'][i+1])
+        if '文法' in lang:
+            links += '[{a} 文法]'.format(a = lang['文法'][0])
+            
+        if '文法' in lang:
+            if len(lang['文法'])>2:
+                for i in range(len(lang['文法']) - 1):
+                    links+= '[{a} 文法{i}]'.format(i=str(i+2),a = lang['文法'][i+1])
+        if '辞書' in lang:
+            links += '[{a} 辞書]'.format(a = lang['辞書'][0])
+
+        if '辞書' in lang:
+            if len(lang['辞書'])>2:
+                for i in range(len(lang['辞書']) - 1):
+                    links+= '[{a} 辞書{i}]'.format(i=str(i+2),a = lang['辞書'][i+1])
+        
+
+
+        md +=f"| {name}  || {year} || {artist} || {setumei} || {conworld} || {genre} || {links}"
+    md+="|}\n"
+    return md
 
 md = """
+'''日本語圏人工言語の一覧'''（にほんごけんじんこうげんごのいちらん）では、日本語で情報が発表された人工言語を一覧にして示す。
 
-# 日本語圏人工言語リスト(2023年12月)
-　日本語圏の人工言語のリストが最近作られていないと思ったので、底となるリストを参考に、新しい言語も合わせてつくったものです。リストのすべての言語の情報は私がアクセスして確認しなおしています。
-　このリストは後で作るリストのための下準備という位置づけで、人工言語として言及されているものは見つけ次第すべて入れています。そのため、創作世界の設定に名前だけ登場するような言語や、ツイッター上で思い付きで作られた言語も含んでいます。
-　言語の説明やCLAコードの入った生データは以下のリンクからアクセスできます。tsv(タブ区切り値)形式であり、Excelから開けます。私は著作権を放棄するので、利用したい方は使ってください。
-https://mikanixonable.github.io/data/conlang.tsv
 
-追記 utf-8でcsv形式に書き直しました
+==概要==
+　言語の説明やCLAコードの入ったcsvデータは以下のリンクからアクセスできます。
 https://mikanixonable.github.io/data/conlang.csv
 
-## 底としたリスト
+== 底としたリスト ==
 * [http://dos.chottu.net/conlang_link.html?l=index 人工言語リスト 日本人による人工言語（アイウエオ順] - 2nd LVG IMG.The Second Living Image.
 2004年
 
@@ -130,7 +205,7 @@ https://mikanixonable.github.io/data/conlang.csv
 [https://twitter.com/jin_kou_gengo 人工言語クラスタフォロー]というこのリストに入っていたアカウントをフォローするアカウントがあったため、少し漏れがあるがリストを復元することができる。@2me_ma_sagiさんありがとう
 
 * [http://twoc.ever.jp/twoc/conlang.cgi?mode=list 辞書リスト] - The world of conlangs
- 2020年ごろ
+2020年ごろ
 
 * [https://sites.google.com/site/moyacilang/conlanglist 人工言語リスト] - slaimsan
 たぶんもっとも網羅的
@@ -141,7 +216,7 @@ https://mikanixonable.github.io/data/conlang.csv
 2021年3月
 
 * [https://x.com/i/lists/994189952551346176 conlanger] - Mikanixonable
-私みかぶるが手当たり次第人工言語作者っぽい人を入れているツイッターの人工言語ラーのリスト
+ツイッターの人工言語ラーのリスト
 2023年
 
 * [https://tanukipedia.miraheze.org/wiki/%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E 架空言語] - Tanukipedia (タヌキペディア) 
@@ -167,10 +242,44 @@ dic = csv2dic('conlang.csv')
 for lang in dic:
     if '年代' not in lang:
         print(lang['言語名'])
-pprint(dic)
+# pprint(dic)
 # dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
 
+md+="""
+==一覧=="""
 md += dic2md(dic)
 
+md +="""
+
+==関連項目==
+*[[架空世界]]
+*[[架空国家の一覧]]
+
+{{仮名|にほんのしんこうけんこいちらん}}
+[[Category:一覧]]
+[[Category:架空言語]]
+[[Category:人工言語]]
+"""
+
+    
+def convert_to_wiki_link(input_string):
+    # 正規表現パターンを定義
+    pattern = re.compile(r'\[https://(.+?).miraheze.org/wiki/(.+?) (.+?)\]')
+    result_string = re.sub(pattern, r'[[mh:\1:\2|\3]]', input_string)
+    return result_string
+def convert_to_wiki_link2(input_string):
+    # 正規表現パターンを定義
+    pattern = re.compile(r'\(https://(.+?).miraheze.org/wiki/(.+?)\)')
+    result_string = re.sub(pattern, r'\([[mh:\1:\2]]\)', input_string)
+    return result_string
+def convert_to_wiki_link3(input_string):
+    # 正規表現パターンを定義
+    pattern = re.compile(r' +https://(.+?).miraheze.org/wiki/(.+?) +')
+    result_string = re.sub(pattern, r'[[mh:\1:\2]]', input_string)
+    return result_string
+# md = re.sub(r'\[https://(.+?).miraheze.org/wiki/(.*?) (.*?)\]',f'[[mh:{match.group(1)}:{match.group(2)}|{match.group(3)}]]',md)
+# md = convert_to_wiki_link(md)
+# md = convert_to_wiki_link2(md)
+# md = convert_to_wiki_link3(md)
 with open("conlangWiki.md", 'w', encoding='utf-8') as file:
     file.write(md)

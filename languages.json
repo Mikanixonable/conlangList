@@ -1,0 +1,656 @@
+[{
+  "_id": {
+    "$oid": "612e073df2a13400161ba5a6"
+  },
+  "codes": {
+    "language": "xl",
+    "family": "~",
+    "creator": "zph"
+  },
+  "name": "シャレイア語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630406461664"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630409266178"
+    }
+  },
+  "homepageUrl": "http://ziphil.com",
+  "dictionaryUrl": "http://dic.ziphil.com",
+  "description": "◆ シャレイア語 — qilxaléh /ðiɾʃale/\nシャレイア語は、製作者である Ziphil Shaleiras の世界の捉え方を積極的に投影することで、自己表現の手段として作られている言語です。\nシャレイア語の特徴として、自然言語ならばネイティブ話者の感覚に頼らなければならないような語法の規則を、いくつかの基本法則からできるだけ説明できるようにしているという点が挙げられます。これにより、自分が書いたシャレイア語の文章が自然かどうかを、法則に基づいてある程度理論的に判断することができます。\n\n◆ Shaleian language — qilxaléh /ðiɾʃale/\nShaleian language is a language created as a means of self-expression by actively projecting the way its creator, Ziphil Shaleiras, perceives the world.\nOne of the features of the language is that it tries to explain the usage of words from a few basic laws, while natural languages would have to rely on the senses of their native speakers. This allows you to make some logical judgements about whether your Shaleian writings are natural or not, based on the laws."
+},{
+  "_id": {
+    "$oid": "612e15b2f2a13400161ba79d"
+  },
+  "codes": {
+    "language": "yh",
+    "family": "~",
+    "creator": "aii"
+  },
+  "name": "フュトル",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630410162600"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630412623948"
+    }
+  },
+  "homepageUrl": "https://yheuhtozr.gitlab.io/",
+  "description": "フュトルは文法に対する思索を深める目的で個人言語、実験言語として作られているものです。\nフュトルは人間が話す用途でありながら、（筆者の知識が及ぶ限りの）自然言語にはあまり見られないような特徴を備えています。 これらは文法のあり方や表現のあり方に対するオルタナティブはどこまで、そしてどのように可能かを考察する試みの一環として取り入れられたものです。\n（https://yheuhtozr.gitlab.io/grammar/intro/ より）"
+},{
+  "_id": {
+    "$oid": "612e218af2a13400161bab89"
+  },
+  "codes": {
+    "language": "al",
+    "family": "fog",
+    "creator": "hal"
+  },
+  "name": "Algelang(アルゲラン)",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630413194710"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630413199759"
+    }
+  },
+  "description": "代数的実験言語　Algelang\n(Algebraic Language)",
+  "homepageUrl": "https://twitter.com/Distr_to_Yonder/status/1432693570159271939?s=19"
+},{
+  "_id": {
+    "$oid": "612e3eaa7801f40016e83af5"
+  },
+  "codes": {
+    "language": "zz",
+    "family": "~",
+    "creator": "sky"
+  },
+  "name": "22（国際補助語）",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630420650485"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630420697829"
+    }
+  },
+  "homepageUrl": "https://skytomo221.github.io/22/",
+  "description": "22（国際補助語）は、 母語の異なる人々の間での意思伝達を目的とする、 22世紀のための国際補助語です。 公平性、簡単さを両立し、誰からも学びやすい言語を目指しています。 国際補助語として、もっと世界的に認知され、普及されることを目標にしています。",
+  "dictionaryUrl": "https://github.com/skytomo221/22-word-generator/blob/mini/export/word-list.md"
+},{
+  "_id": {
+    "$oid": "612e4d389e52d30016027a1c"
+  },
+  "codes": {
+    "language": "ne",
+    "family": "klt",
+    "creator": "nhl"
+  },
+  "name": "ネサルゼルデ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630424376840"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630424753572"
+    }
+  },
+  "dictionaryUrl": "http://zpdic.ziphil.com/dictionary/nethalzerde"
+},{
+  "_id": {
+    "$oid": "612e504d9e52d30016027acf"
+  },
+  "codes": {
+    "language": "ln",
+    "family": "lml",
+    "creator": "qnt"
+  },
+  "name": "ルエン語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630425165649"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630425192035"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612ede0297e14100162a24d7"
+  },
+  "codes": {
+    "language": "di",
+    "family": "~",
+    "creator": "lan"
+  },
+  "name": "ランディ",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630461442148"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472031435"
+    }
+  },
+  "homepageUrl": "https://ameblo.jp/shimizu-tknr/entry-12716656846.html",
+  "description": "ランディは、１３６個の単語と簡単な文法から成り立っており、誰でも簡単に学ぶことができます。"
+},{
+  "_id": {
+    "$oid": "612ee12397e14100162a25ba"
+  },
+  "codes": {
+    "language": "gy",
+    "family": "grx",
+    "creator": "ghr"
+  },
+  "name": "暁祖語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630462243712"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472218072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f138a97e14100162a2751"
+  },
+  "codes": {
+    "language": "nc",
+    "family": "cri",
+    "creator": "fli"
+  },
+  "name": "Ŋarâþ Crîþ",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630475146658"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630476538987"
+    }
+  },
+  "homepageUrl": "https://ncv9.flirora.xyz/",
+  "dictionaryUrl": "https://ncv9.flirora.xyz/dictionary/index.html"
+},{
+  "_id": {
+    "$oid": "612f615097e14100162a33b6"
+  },
+  "codes": {
+    "language": "as",
+    "family": "~",
+    "creator": "arx"
+  },
+  "name": "アルカ",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630495056426"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630497226890"
+    }
+  },
+  "homepageUrl": "http://conlinguistics.org/arka/",
+  "dictionaryUrl": "http://mindsc.ape.jp/klel/",
+  "description": "人口言語アルカ。特に新生アルカ・俗アルカを表すコードです。\n\n架空世界アトラスで国際的に話される言語です。\n\nasはarka sam (新生アルカ)に由来します。"
+},{
+  "_id": {
+    "$oid": "612f61a097e14100162a3480"
+  },
+  "codes": {
+    "language": "ng",
+    "family": "~",
+    "creator": "arx"
+  },
+  "name": "凪霧",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630495136177"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630496596364"
+    }
+  },
+  "homepageUrl": "https://maykloaayukawa.wixsite.com/nagili",
+  "dictionaryUrl": "https://zpdic.ziphil.com/dictionary/nagili",
+  "description": "架空世界アトラスの、凪国(アルティア)で話される言葉です。\n\n表語文字と音節文字を組み合わせた正書法が特徴です。\n\nホームページURLに掲載の文法は古いものです。最新の文法はこちらをご覧ください。\nhttps://drive.google.com/file/d/0BwaB-JfIm_OeZVZvQWdqMkpPazA/view?usp=sharing&resourcekey=0-t3V-9Tqe2Xv2q3Umn-w5MQ"
+},{
+  "_id": {
+    "$oid": "61325aff13cd7c00164c0e0f"
+  },
+  "codes": {
+    "language": "ca",
+    "family": "~",
+    "creator": "lmb"
+  },
+  "name": "カルコレーシュ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630690047272"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630732517160"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6133974613cd7c00164c18cb"
+  },
+  "codes": {
+    "language": "dm",
+    "family": "wys",
+    "creator": "phe"
+  },
+  "name": "ディミト語/うぐ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630771014828"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630826625222"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "613b2c46ed47c50016685a23"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "613b2c46ed47c50016685a24"
+    },
+    "creator": "mqe",
+    "family": "~",
+    "language": "bm"
+  },
+  "name": "マクェン語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1631267910270"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1631284015569"
+    }
+  },
+  "homepageUrl": "https://maqenbemon.localinfo.jp",
+  "dictionaryUrl": "http://zpdic.ziphil.com/dictionary/mqe",
+  "description": "国際補助語"
+},{
+  "_id": {
+    "$oid": "61751127a44ab30016ec313d"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61751127a44ab30016ec313e"
+    },
+    "creator": "zas",
+    "family": "~",
+    "language": "id"
+  },
+  "name": "イジェール語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1635062055802"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1636526455907"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6195de0d549a6400161774c6"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6195de0d549a6400161774c7"
+    },
+    "creator": "ccc",
+    "family": "fff",
+    "language": "ll"
+  },
+  "name": "Example Language",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1637211661466"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998343516"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61a77b75ed2c650016d2fb17"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61a77b75ed2c650016d2fb18"
+    },
+    "creator": "lak",
+    "family": "~",
+    "language": "lk"
+  },
+  "name": "ラクシュ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638366069175"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1638444298845"
+    }
+  },
+  "dictionaryUrl": "https://zpdic.ziphil.com/dictionary/Laksinin?ignoreCase=true&mode=both&orderDirection=ascending&orderMode=unicode&search=&type=prefix&page=0"
+},{
+  "_id": {
+    "$oid": "61af1390371b860016b1ef8f"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61af1390371b860016b1ef90"
+    },
+    "creator": "kar",
+    "family": "fun",
+    "language": "fn"
+  },
+  "name": "雰語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638863760718"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998344359"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c4520587ef180016deb147"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61c4520587ef180016deb148"
+    },
+    "creator": "jrl",
+    "family": "rfl",
+    "language": "ll"
+  },
+  "name": "リパライン語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1640256005881"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998345299"
+    }
+  },
+  "description": "リパライン語は総合創作界隈悠里が創作対象とする複数の異世界で国際的に話される言語の総称です。",
+  "homepageUrl": "https://w.atwiki.jp/cgwj/pages/42.html"
+},{
+  "_id": {
+    "$oid": "61def020f3461300161485fc"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def020f3461300161485fd"
+    },
+    "creator": "brl",
+    "family": "fzb",
+    "language": "fz"
+  },
+  "name": "Ƣeznē'bix(オ゛ェｼﾞｭルニョェーッ語)",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642000416676"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002244994"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61def1eef3461300161486c2"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def1eef3461300161486c3"
+    },
+    "creator": "brl",
+    "family": "fzb",
+    "language": "os"
+  },
+  "name": "Osjernje'bix[bixnē'ex](ウシェルニェク語[方言])",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642000878255"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002247229"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6208c785fd6d5200168167c7"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6208c785fd6d5200168167c8"
+    },
+    "creator": "mqe",
+    "family": "~",
+    "language": "tl"
+  },
+  "name": "玄縁語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1644742533158"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097907636"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6208cbc0fd6d520016816975"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6208cbc0fd6d520016816976"
+    },
+    "creator": "lak",
+    "family": "aru",
+    "language": "au"
+  },
+  "name": "アルパヌ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1644743616240"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097909182"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629761bc48cbf600160b66c3"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629761bc48cbf600160b66c4"
+    },
+    "creator": "vid",
+    "family": "swq",
+    "language": "sw"
+  },
+  "name": "ソウキ語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654088124044"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097841464"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6298c79802632b00169b4d99"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6298c79802632b00169b4d9a"
+    },
+    "creator": "vid",
+    "family": "han",
+    "language": "kw"
+  },
+  "name": "クァン語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654179736042"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601185664"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629a1011f99792001645cd54"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629a1011f99792001645cd55"
+    },
+    "creator": "kuk",
+    "family": "~",
+    "language": "gw"
+  },
+  "name": "グェーゼル語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654263825387"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601187833"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "630365052ddd780016a61df2"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "630365052ddd780016a61df3"
+    },
+    "creator": "kwn",
+    "family": "jpx",
+    "language": "ja"
+  },
+  "name": "日本語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1661166853557"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1669201750093"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63631f0663a4350016765e40"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "63631f0663a4350016765e41"
+    },
+    "creator": "ver",
+    "family": "~",
+    "language": "qe"
+  },
+  "name": "クェントーレ語 ʕ Խ̆ωζψo˞ճω-vωζճ ʔ",
+  "approved": false,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1667440390496"
+    }
+  }
+}]

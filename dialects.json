@@ -1,0 +1,740 @@
+[{
+  "_id": {
+    "$oid": "612e073df2a13400161ba5a5"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "xl",
+    "family": "~",
+    "creator": "zph"
+  },
+  "name": "",
+  "evidence": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630406461664"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630409266171"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e15b2f2a13400161ba79c"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "yh",
+    "family": "~",
+    "creator": "aii"
+  },
+  "name": "",
+  "evidence": "https://yheuhtozr.gitlab.io/",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630410162600"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630412623944"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e218af2a13400161bab88"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "al",
+    "family": "fog",
+    "creator": "hal"
+  },
+  "name": "",
+  "evidence": "実験言語群(Experimental Language family)\n代数的実験言語(Algebraic Language) Algelang",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630413194710"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630413202494"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e3eaa7801f40016e83af4"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "zz",
+    "family": "~",
+    "creator": "sky"
+  },
+  "name": "",
+  "evidence": "サイト: https://skytomo221.github.io/22/\nDiscordサーバ: https://discord.gg/MTJSUXKPHJ\n",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630420650484"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630420697824"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e4d389e52d30016027a1b"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "ne",
+    "family": "klt",
+    "creator": "nhl"
+  },
+  "name": "",
+  "evidence": "辞書になります。\nhttp://zpdic.ziphil.com/dictionary/nethalzerde",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630424376839"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630424753567"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612e504d9e52d30016027ace"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "ln",
+    "family": "lml",
+    "creator": "qnt"
+  },
+  "name": "",
+  "evidence": "SCJ ディスコードサーバのレミールチャンネル",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630425165649"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630425192028"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612ede0297e14100162a24d6"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "di",
+    "family": "~",
+    "creator": "lan"
+  },
+  "name": "",
+  "evidence": "https://www.landislandi.com",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630461442148"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472031429"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612ee12397e14100162a25b9"
+  },
+  "codes": {
+    "dialect": "go",
+    "language": "gy",
+    "family": "grx",
+    "creator": "ghr"
+  },
+  "name": "暁国首都弁",
+  "evidence": "https://discord.gg/zGWXKQxJd9",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630462243712"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630472218068"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f138a97e14100162a2750"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "nc",
+    "family": "cri",
+    "creator": "fli"
+  },
+  "name": "",
+  "evidence": "I have a website at https://ncv9.flirora.xyz/index.html",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630475146658"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630476538985"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f615097e14100162a33b5"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "as",
+    "family": "~",
+    "creator": "arx"
+  },
+  "name": "",
+  "evidence": "http://conlinguistics.org/arka/",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630495056424"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630497226887"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "612f61a097e14100162a347f"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "ng",
+    "family": "~",
+    "creator": "arx"
+  },
+  "name": "",
+  "evidence": "https://maykloaayukawa.wixsite.com/nagili",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630495136177"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630496596359"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61325aff13cd7c00164c0e0e"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "ca",
+    "family": "~",
+    "creator": "lmb"
+  },
+  "name": "",
+  "evidence": "https://sites.google.com/view/calcoradish/calcoradishlanguage",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630690047271"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630732517150"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6133974613cd7c00164c18ca"
+  },
+  "codes": {
+    "dialect": "~",
+    "language": "dm",
+    "family": "wys",
+    "creator": "phe"
+  },
+  "name": "",
+  "evidence": "辞書 http://zpdic.ziphil.com/dictionary/ugugo\n言語垢 https://twitter.com/phenyllithium3",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1630771014827"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1630826625209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "613b2c46ed47c50016685a21"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "613b2c46ed47c50016685a22"
+    },
+    "creator": "mqe",
+    "family": "~",
+    "language": "bm",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://maqenbemon.localinfo.jp",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1631267910268"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1631284015553"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61751127a44ab30016ec313b"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61751127a44ab30016ec313c"
+    },
+    "creator": "zas",
+    "family": "~",
+    "language": "id",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "http://zaslon.info/idyer/",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1635062055801"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1636526455894"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6195de0d549a6400161774c4"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6195de0d549a6400161774c5"
+    },
+    "creator": "ccc",
+    "family": "fff",
+    "language": "ll",
+    "dialect": "dd"
+  },
+  "name": "Example Dialect",
+  "evidence": "例示用途のため確保(参考：IPアドレスにも同様のアドレスがある)。CL-KIITA代表　佐藤陽花",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1637211661465"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998343490"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61a77b75ed2c650016d2fb15"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61a77b75ed2c650016d2fb16"
+    },
+    "creator": "lak",
+    "family": "~",
+    "language": "lk",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://migdal.jp/lakshish\nhttps://discord.gg/aFfafcBQMs",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638366069174"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1638444298824"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61af1390371b860016b1ef8d"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61af1390371b860016b1ef8e"
+    },
+    "creator": "kar",
+    "family": "fun",
+    "language": "fn",
+    "dialect": "jo"
+  },
+  "name": "上都標準語",
+  "evidence": "https://sites.google.com/view/funese/言語/雰語",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1638863760714"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998344350"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61c4520587ef180016deb145"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61c4520587ef180016deb146"
+    },
+    "creator": "jrl",
+    "family": "rfl",
+    "language": "ll",
+    "dialect": "nf"
+  },
+  "name": "現代標準語",
+  "evidence": "https://twitter.com/lineparine_tan\nhttps://w.atwiki.jp/cgwj/pages/42.html\nhttps://www.kadokawa.co.jp/product/321711000464/",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1640256005880"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1641998345285"
+    }
+  },
+  "homepageUrl": "https://w.atwiki.jp/cgwj/pages/42.html",
+  "dictionaryUrl": "http://zpdic.ziphil.com/dictionary/lineparine",
+  "description": "現代標準リパライン語はピリフィアー歴2003～2004年にユエスレオネ連邦言語翻訳庁によって整理されたリパライン語の標準語の一つです。皆さんがリパライン語と呼ぶ場合は大抵この言語を指していると思われます。"
+},{
+  "_id": {
+    "$oid": "61def020f3461300161485fa"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def020f3461300161485fb"
+    },
+    "creator": "brl",
+    "family": "fzb",
+    "language": "fz",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642000416675"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002246250"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61def1eef3461300161486c0"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def1eef3461300161486c1"
+    },
+    "creator": "brl",
+    "family": "fzb",
+    "language": "os",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "スヴェイン関連.",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642000878254"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002247226"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61def6c1f346130016148ac7"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "61def6c1f346130016148ac8"
+    },
+    "creator": "brl",
+    "family": "fzb",
+    "language": "fz",
+    "dialect": "gr"
+  },
+  "name": "Grwenbixnē'ex(碧雲方言)<北部方言群>",
+  "evidence": "陽花関係.",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1642002113132"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1642002244979"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6208c785fd6d5200168167c5"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6208c785fd6d5200168167c6"
+    },
+    "creator": "mqe",
+    "family": "~",
+    "language": "tl",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://migdal.jp/maqenbemon/cl-kiitae-itlo-1j1h\nhttp://zpdic.ziphil.com/dictionary/genena",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1644742533153"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097907632"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6208cbc0fd6d520016816973"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6208cbc0fd6d520016816974"
+    },
+    "creator": "lak",
+    "family": "aru",
+    "language": "au",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://migdal.jp/:en-US/lakshish/%E3%82%A2%E3%83%AB%E3%83%91%E3%83%8C%E8%AA%9E%E3%81%AE%E9%9F%B3%E9%9F%BB-p7b",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1644743616239"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097909176"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629761bc48cbf600160b66c1"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629761bc48cbf600160b66c2"
+    },
+    "creator": "vid",
+    "family": "swq",
+    "language": "sw",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://conlinguistics.fandom.com/ja/wiki/%E3%82%BD%E3%82%A6%E3%82%AD%E8%AA%9E?so=search",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654088124043"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654097841452"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6298c79802632b00169b4d97"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "6298c79802632b00169b4d98"
+    },
+    "creator": "vid",
+    "family": "han",
+    "language": "kw",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "https://conlinguistics.fandom.com/ja/wiki/%E3%82%AF%E3%82%A1%E3%83%B3%E8%AA%9E",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654179736039"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601185653"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629a1011f99792001645cd52"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629a1011f99792001645cd53"
+    },
+    "creator": "kuk",
+    "family": "~",
+    "language": "gw",
+    "dialect": "we"
+  },
+  "name": "西方方言",
+  "evidence": "https://conlinguistics.fandom.com/ja/wiki/%E3%82%B0%E3%82%A7%E3%83%BC%E3%82%BC%E3%83%AB%E8%AA%9E",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654263825385"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601189172"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629a1055f99792001645ce55"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "629a1055f99792001645ce56"
+    },
+    "creator": "kuk",
+    "family": "~",
+    "language": "gw",
+    "dialect": "es"
+  },
+  "name": "東方方言",
+  "evidence": "https://conlinguistics.fandom.com/ja/wiki/%E3%82%B0%E3%82%A7%E3%83%BC%E3%82%BC%E3%83%AB%E8%AA%9E",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1654263893456"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1654601187823"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "630365052ddd780016a61df0"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "630365052ddd780016a61df1"
+    },
+    "creator": "kwn",
+    "family": "jpx",
+    "language": "ja",
+    "dialect": "kn"
+  },
+  "name": "川音方言",
+  "evidence": "アプリオリ言語かと思ふた？ごめんね。アポステリオリ人工方言なんだ。\n\n語族コードは ISO 639-5 の jpx （日琉語族）ゟ。\n言語コードは ISO 639-1 の ja （日本語）ゟ。\n方言コードは「川音」の頭字 k と n ゟ。\n\nまとめますと：kwn（川音の創作世界に於いての）-jpx（日流語族内の）-ja（日本語の）-kn（川音方言）\n...となります。\n\n川音方言辞典🔗http://zpdic.ziphil.com/dictionary/463\nデライト🔗https://dlt.kitetu.com/KNo.D640/61DD",
+  "approved": true,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1661166853553"
+    }
+  },
+  "approvedDate": {
+    "$date": {
+      "$numberLong": "1669201750072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63631f0663a4350016765e3e"
+  },
+  "codes": {
+    "_id": {
+      "$oid": "63631f0663a4350016765e3f"
+    },
+    "creator": "ver",
+    "family": "~",
+    "language": "qe",
+    "dialect": "~"
+  },
+  "name": "",
+  "evidence": "",
+  "approved": false,
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1667440390495"
+    }
+  }
+}]

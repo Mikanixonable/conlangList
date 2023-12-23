@@ -261,7 +261,7 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[palam](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E6%B3%A2%E8%97%8Dpalam?authuser=0)   ([文法](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E6%B3%A2%E8%97%8Dpalam/%E6%96%87%E6%B3%95%E6%9B%B8?authuser=0))([辞書](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E6%B3%A2%E8%97%8Dpalam/%E6%97%A5%E6%B3%A2%E8%BE%9E%E5%85%B8?authuser=0))|2012年6月27日23:02:46-2015|[faras palt tilasos](https://twitter.com/Faras_Tilasos)||  
 |[パラディス語](https://w.atwiki.jp/paladisren/pages/1.html)   ([文法](https://w.atwiki.jp/paladisren/pages/17.html))([辞書](https://w.atwiki.jp/paladisren/pages/45.html))|2012|渡辺しま||  
 |[Palams](https://w.atwiki.jp/palams)   ([文法](https://w.atwiki.jp/palams/pages/35.html))([辞書](https://w.atwiki.jp/palams/pages/75.html))|2012年7月-2013|Faras=Tilasos||  
-|[Hiktan語](https://tanukipedia.miraheze.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E)   ([辞書](https://tanukipedia.miraheze.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95))|2012年5月-2019|[創造地図の人](https://twitter.com/koridentetsu)||  
+|[Hiktan語](https://tanukipedia.miraheze.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E)   ([辞書](https://tanukipedia.miraheze.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95))|2012年5月-2019|[想像地図の人](https://twitter.com/koridentetsu)||  
 |[トルキィ](http://ww22.tiki.ne.jp/~phalsail/gengo/trky/index.htm)   ([辞書](http://ww22.tiki.ne.jp/~phalsail/gengo/trky/tr_ha.htm))|2012|大元帥||  
 |[リディア語](https://w.atwiki.jp/lidia/pages/1.html)   |2012|seren arbazard(1981-), セレン・アルバザード, 貞苅詩門||  
 |[アバハム語](https://w.atwiki.jp/sendanpon/pages/66.html)   |2012|せんだんぽん||  
@@ -298,7 +298,7 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[ア語](https://web.archive.org/web/20190622051823/https://sites.google.com/site/moyacilang/ago)   |2014|slaimsan||  
 |[クレリカ](https://sites.google.com/site/qreriqa/qreriqa?authuser=0)   ([文法](https://sites.google.com/site/qreriqa/qreriqa-v0-01/%E6%96%87%E6%B3%95?authuser=0))([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=qreriqa))|2014|デネブ||  
 |[Segsyoxafu](https://segsyoxafu.wordpress.com/gaiheu/)   |2014-2023|[渡邉隆之 ](https://twitter.com/Segsyoxafu)||  
-|[フィダーヌス語](https://fidanus.wixsite.com/hebfid), Heb Fidana, Fid?nasa Uduhos(旧名)   ([文法](https://seesaawiki.jp/fidanus/d/%cc%be%bb%ec))([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=Findenburg))|2014-2021|[Fudanus](https://twitter.com/FidaanasaUduhos)||  
+|[フィダーヌス語](https://fidanus.wixsite.com/hebfid)   ([文法](https://seesaawiki.jp/fidanus/d/%cc%be%bb%ec))([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=Findenburg))|2014-2021|[Fudanus](https://twitter.com/FidaanasaUduhos)||  
 |[北方祖語](https://fidanus.wixsite.com/hebfid/blank-31)   |2014-2020|[Fudanus](https://twitter.com/FidaanasaUduhos)||  
 |[イサマ語](https://fidanus.wixsite.com/hebfid/blank-31)   |2014-2020|[Fudanus](https://twitter.com/FidaanasaUduhos)||  
 |[Énj](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E7%88%B0%E7%8F%A0%C3%A9nj?authuser=0)   ([文法](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E7%88%B0%E7%8F%A0%C3%A9nj/%E7%88%B0%E6%97%A5%E8%BE%9E%E5%85%B8?authuser=0_http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=paltfim))([辞書](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E7%88%B0%E7%8F%A0%C3%A9nj/%E7%88%B0%E7%8F%A0%E6%96%87%E6%B3%95?authuser=0))|2014年9月27日23時25分-2015|[faras palt tilasos](https://twitter.com/Faras_Tilasos)||  
@@ -306,7 +306,7 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[モヤシ語](https://sites.google.com/site/moyacilang/home)   ([文法](https://sites.google.com/site/moyacilang/%E3%83%A2%E3%83%A4%E3%82%B7%E8%AA%9E/intro?authuser=0))|2014|スライムさん||  
 |ビウ語   |2014-2020|[ミューク (myuuk)](https://twitter.com/_meauk)||  
 |[マクシュギア語](https://web.archive.org/web/20160624115928/http://macsyagyua.iinaa.net/index.html)   ([辞書](https://web.archive.org/web/20130615181839/https://macsyagyua.iinaa.net/))|2014-2016|||  
-|[千織語](https://tanukipedia.miraheze.org/wiki/%E5%8D%83%E7%B9%94%E8%AA%9E)   ([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=YuriOruta))|2014-2023|[創造地図の人](https://twitter.com/koridentetsu)||  
+|[千織語](https://tanukipedia.miraheze.org/wiki/%E5%8D%83%E7%B9%94%E8%AA%9E)   ([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=YuriOruta))|2014-2023|[想像地図の人](https://twitter.com/koridentetsu)||  
 |[アルバレン](https://conlinguistics.org/arka/study_yulf_79.html)   ([サイト2](https://web.archive.org/web/20190622052008/https://sites.google.com/site/faraspalt/levian/arbaren))([サイト3](https://arxidia.another.jp/atwiki8-arbazard/?pageid=916))|2014-2020|[seren arbazard(1981-)](https://twitter.com/Faras_Tilasos), セレン・アルバザード, 貞苅詩門||  
 |[マクシャギュア語](https://saelawhiz.blog.fc2.com/blog-category-4.html)   ([文法](https://saelawhiz.blog.fc2.com/blog-entry-229.html))([辞書](https://limeputa.wiki.fc2.com/wiki/%E6%8E%A5%E5%B0%BE%E8%BE%9E))|2014|りよこ||  
 |ロースリア語   |2014|[mei](https://twitter.com/MayciaArenberg), 鮎川早月, 鮎川愛衣, Maycia Arenberg, アージャ, メーリエ, Mélier||  
@@ -333,7 +333,7 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[Kagebata](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E6%99%AF%E5%B9%A1kagebata?authuser=0)   ([文法](https://sites.google.com/site/faraspalt/%E3%81%9D%E3%81%AE%E4%BB%96/%E6%99%AF%E5%B9%A1kagebata/%E6%99%AF%E5%B9%A1%E6%96%87%E6%B3%95?authuser=0))([辞書](https://sites.google.com/site/faraspalt/%E6%B7%B5%E8%96%ABbutir-k/%E6%B7%B5%E6%97%A5%E8%BE%9E%E5%85%B8?authuser=0))|2015年1月26日00時01分|[faras palt tilasos](https://twitter.com/Faras_Tilasos)||  
 |[萌語](https://cogas.github.io/pages/runbau/kiskrun_memo/)   |2015|[スライムさん](https://twitter.com/slaimsan), slaimsan.ポンタ, モヤ氏||  
 |[ガハムキセラ](http://ww22.tiki.ne.jp/~phalsail/gengo/gahamu/index.htm)   |2015|大元帥||  
-|日本駅名語   ([文法](https://tanukipedia.miraheze.org/wiki/%E6%97%A5%E6%9C%AC%E9%A7%85%E5%90%8D%E8%AA%9E#%E6%96%87%E6%B3%95))([辞書](https://web.archive.org/web/20210418210337/http://souzoumap.webcrow.jp/Taosenai/Ekimeigojiten.HTM))|2015-2016|[4b3](https://twitter.com/koridentetsu), はらしとと, 想像地図研究所||  
+|日本駅名語   ([文法](https://tanukipedia.miraheze.org/wiki/%E6%97%A5%E6%9C%AC%E9%A7%85%E5%90%8D%E8%AA%9E#%E6%96%87%E6%B3%95))([辞書](https://souzoumap.menhera.io/Taosenai/Ekimeigojiten.HTM))|2015-2023|[4b3](https://twitter.com/koridentetsu), はらしとと, 想像地図研究所||  
 |[レテシミ語](https://web.archive.org/web/20161102100211/https://sites.google.com/site/moyacilang/letesimigo), letesimi, ゴジュウニ語   ([辞書](https://onedrive.live.com/view.aspx?resid=9C3F8BE2B10E2F75!8131&wdo=2&authkey=!AH2_0EpKWW-2MZA))|2015-2023|スライムさん||  
 |[縁式](https://sites.google.com/site/enishikiceniski/)   ([文法](https://sites.google.com/site/enishikiceniski/%E5%86%85%E5%AE%B9%E8%AA%9E%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6?authuser=0))|2015-2017|[おかゆ](https://twitter.com/oka_iu_tcan)||  
 |[テトテ語](https://scrapbox.io/tgbg/tetute%E8%AA%9E%E8%B3%87%E6%96%99%E9%9B%86), テトゥテ語, yoka tetute   ([サイト2](https://www.evernote.com/shard/s655/client/snv?noteGuid=9598ef1f-c9f1-4064-ae74-be377e853ad6&noteKey=629c8b7213084fb13141958ce443e53b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs655%2Fsh%2F9598ef1f-c9f1-4064-ae74-be377e853ad6%2F629c8b7213084fb13141958ce443e53b&title=tetute%25E8%25AA%259E%25E8%25AA%25BF%25E6%259F%25BB%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588))([サイト3](https://haar-you.github.io/TetuteInputMethod/grammar/ringo58.html))([サイト4](https://migdal.jp/bertia_arbarigmirok/taf-4a89))|2015-2023|[kakjeka](https://twitter.com/kakjeka)||  
@@ -416,7 +416,7 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[アププナ語](https://sites.google.com/view/apupuna/%E6%97%A7%E3%82%A2%E3%83%97%E3%83%97%E3%83%8A%E8%AA%9E?authuser=0)   |2018|[フクロウナギ](https://twitter.com/apupuna1)||  
 |[タコ語](https://sites.google.com/view/apupuna/%E3%82%BF%E3%82%B3%E8%AA%9E?authuser=0)   ([文法](https://drive.google.com/file/d/1HpNwc8wRXyouLJYQrjru_hGx6pARgzuq/view))([辞書](https://sites.google.com/view/apupuna/%E3%82%BF%E3%82%B3%E8%AA%9E/%E3%83%88%E3%82%AD%E3%83%9D%E3%83%8A-%E3%82%BF%E3%82%B3%E8%AA%9E%E8%BE%9E%E6%9B%B8?authuser=0))|2018-2019|[フクロウナギ](https://twitter.com/apupuna1)||  
 |[テーズウィゼラー語](https://sites.google.com/view/ruwoo/b-tezuu-izera-yu?authuser=0)   ([辞書](https://zpdic.ziphil.com/dictionary/57))|2018-2023|[mis?ke=furezza=Kagena](https://twitter.com/Kagena_ryuuka)||  
-|[apupuna1第6回人工言語コンペ参加言語イシ・ククル語イシ・ククル(??' q?'q?'?)語](https://twitter.com/apupuna1/status/992390420016480257)   |2018|[フクロウナギ](https://twitter.com/apupuna1)||  
+|[apupuna1第6回人工言語コンペ参加言語イシ・ククル語](https://twitter.com/apupuna1/status/992390420016480257)   |2018|[フクロウナギ](https://twitter.com/apupuna1)||  
 |[ノルウェー語たん第6回人工言語コンペ参加言語イシ・ククル語](https://sprache.skr.jp/clcp/?5)   |2018|[ノルウェー語たん](https://twitter.com/norsk_tan)||  
 |[ありと第6回人工言語コンペ参加言語イシ・ククル語](https://twitter.com/arito_asu/status/993110388362248192)   |2018|[ありと](https://twitter.com/arito_asu)||  
 |[二式第5回人工言語コンペ参加言語](https://docs.google.com/document/d/1LvvJAD7bkf-D5doGFMeFPUvnozowfBVGcdgxBbHHS08/edit)   |2018|[二式](https://twitter.com/nwaShekhy), 弍式, にしき, nwashekhy||  
@@ -535,7 +535,8 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[ガラル文字](https://raityo.com/galar-moji/)   |2020|任天堂||  
 |[オ゛ェｼﾞｭルニョェーッ語](https://scrapbox.io/lanva-bixic/), オエル語, ?ezn?'bix   ([文法](https://migdal.miraheze.org/wiki/%E3%82%AA%E3%82%9B%E3%82%A7%EF%BD%BC%EF%BE%9E%EF%BD%AD%E3%83%AB%E3%83%8B%E3%83%A7%E3%82%A7%E3%83%BC%E3%83%83%E8%AA%9E%E6%96%87%E5%85%B8))|2021|[loyuka(koloka)](https://twitter.com/Loyuka_nua2), 佐藤陽花, Xirdim, スヴェイン||  
 |[ゼノス語](https://web.archive.org/web/20221102150111/http://xylops.cswiki.jp/)   ([辞書](https://web.archive.org/web/20220809071810/http://xylops.cswiki.jp/index.php?%E6%96%87%E5%AD%97%E3%81%A8%E7%99%BA%E9%9F%B3))|2021|[ヘイル](https://twitter.com/XENOSLANGUAGE)||  
-|[LANDI](https://ameblo.jp/shimizu-tknr/entry-12787465480.html), ７セグ語, 人工言語ランディ   |2021-2023|[清水隆紀(1971-)](https://twitter.com/tokipona_landi)||  
+|[LANDI](https://ameblo.jp/shimizu-tknr/entry-12787465480.html), 7セグ語, 人工言語ランディ   |2021-2023|[清水隆紀(1971-)](https://twitter.com/tokipona_landi)||  
+|[ベーツェ語](https://migdal.jp/shunjumint/%E3%83%99%E3%83%BC%E3%83%84%E3%82%A7%E8%AA%9E-1-%E5%90%8D%E8%A9%9E%E4%BB%A3%E5%90%8D%E8%A9%9E%E7%B7%A8-315)   |2021-2023|[春秋みんと](https://twitter.com/ShunjuMint)||  
 |[ボウニム語](https://tanukipedia.miraheze.org/wiki/%E3%83%9C%E3%82%A6%E3%83%8B%E3%83%A0%E8%AA%9E)   ([辞書](http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=Rine))|2021-2023|||  
 |ラクシュ語   ([文法](https://migdal.jp/lakshish/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A5%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95-%E5%85%B6%E3%81%AE%E4%B8%80-28gp))|2021-2023|[Beisklafki Barsak](https://twitter.com/LakshishBarsak), B.クラサク, べいすくらふき||  
 |[マクェン語](https://maqenbemon.localinfo.jp/)   ([辞書](https://zpdic.ziphil.com/dictionary/mqe))|2021|[acacia](https://twitter.com/maqenbemon)||  
@@ -639,6 +640,8 @@ https://github.com/kaeru2193/Conlang-List-Works/tree/main
 |[ラッビヤ語](https://w.atwiki.jp/cgwj/pages/322.html)   |2023|Fafs S Sashimi||  
 |ラーヴァヌー語   |2023|Fafs S Sashimi||  
 |[リスターメ語](https://web.archive.org/web/20201111031205/https://zohen0.github.io/xaledunomyn-dito/)   ([文法](https://web.archive.org/web/20201111031210/https://zohen0.github.io/xaledunomyn-dito/grammar/))([辞書](https://github.com/koriyama28/xaledunomyn-dito/blob/master/dictionary/xaledunomyn-dito.json))|2023|Fafs S Sashimi||  
+|[アイレス語](https://tanukipedia.miraheze.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AC%E3%82%B9%E8%AA%9E)   |2023|[タクタク・テラ](https://twitter.com/qhqhTerra)||  
+|[エルジス語](https://tanukipedia.miraheze.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B8%E3%82%B9%E8%AA%9E)   |2023|[タクタク・テラ](https://twitter.com/qhqhTerra)||  
 |テラノヴァ語   ([辞書](https://zpdic.ziphil.com/dictionary/Terranovian))|2023|keith, , lala||  
 |ハヴェノ語   ([文法](https://d.kuku.lu/p6sncem5y))|2023|[L'Academia Havena Lingva](https://twitter.com/lahaveno_lengue)||  
 |[架空言語Anemone](https://izumi303.github.io/)   ([文法](https://izumi303.github.io/Anemone/Anemone_BasicGrammar.html))([辞書](https://zpdic.ziphil.com/dictionary/985))|2023|[izumi kanzaki](https://twitter.com/izumikanzaki3)||  
