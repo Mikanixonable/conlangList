@@ -97,7 +97,8 @@ def dic2md2(dic):
     return md
 
 def dic2md(dic):
-    md = """{| class="wikitable" style="margin:auto"
+    md = """
+{| class="wikitable" style="margin:auto"
 |+ 人工言語一覧
 |-
 ! 言語名 !! 年代 !! 作者 !! 説明 !! 架空世界 !! 分類 !! 資料"""
@@ -174,66 +175,14 @@ def dic2md(dic):
 
 
         md +=f"| {name}  || {year} || {artist} || {setumei} || {conworld} || {genre} || {links}"
-    md+="|}\n"
+    md+="""
+    |}
+    """
     return md
 
 md = """
-'''日本語圏人工言語の一覧'''（にほんごけんじんこうげんごのいちらん）では、日本語で情報が発表された人工言語を一覧にして示す。
-
-
-==概要==
-　言語の説明やCLAコードの入ったcsvデータは以下のリンクからアクセスできます。
-https://mikanixonable.github.io/data/conlang.csv
-
-== 底としたリスト ==
-* [http://dos.chottu.net/conlang_link.html?l=index 人工言語リスト 日本人による人工言語（アイウエオ順] - 2nd LVG IMG.The Second Living Image.
-2004年
-
-* [https://conlinguistics.org/link.html 人工言語リンク集] - 人工言語学
-2012年
-
-* [https://conlinguistics.fandom.com/ja/wiki/%E8%A8%80%E8%AA%9E%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7 言語記事一覧] - 人工言語wiki
-2016年ごろと思われる
-
-* [https://itest.5ch.net/test/read.cgi/twwatch/1513511369/ 人工言語界隈リスト] - 5ch
-2017-12-17
-
-* [https://docs.google.com/spreadsheets/d/1t_WxHJ_b39PWXIMauHwnSww_Ac2m_Mw7zC-vQkp59PQ/edit#gid=0 人工言語を作ってるor勉強してる人が少し分かるリスト] - Maycia Arenberg
-2018-02-24
-現在はリクエスト承認が必要という表示が出る
-[https://x.com/mayciaarenberg/status/963447200087879680?s=46&t=rWvY73qZa5Ie23yU0UA6WA 紹介ツイート]
-[https://twitter.com/jin_kou_gengo 人工言語クラスタフォロー]というこのリストに入っていたアカウントをフォローするアカウントがあったため、少し漏れがあるがリストを復元することができる。@2me_ma_sagiさんありがとう
-
-* [http://twoc.ever.jp/twoc/conlang.cgi?mode=list 辞書リスト] - The world of conlangs
-2020年ごろ
-
-* [https://sites.google.com/site/moyacilang/conlanglist 人工言語リスト] - slaimsan
-たぶんもっとも網羅的
-2020年
-
-* [https://ziphil.com/other/other/1.html リンク集 人工言語] - Ziphil
-文法が確認できるものに絞って載せている
-2021年3月
-
-* [https://x.com/i/lists/994189952551346176 conlanger] - Mikanixonable
-ツイッターの人工言語ラーのリスト
-2023年
-
-* [https://tanukipedia.miraheze.org/wiki/%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E 架空言語] - Tanukipedia (タヌキペディア) 
-2023年
-
-* [https://sites.google.com/view/ryuuka/k-ren-gong-yan-yurinku-ji?authuser=0 人工言語 柳霞] - J．人工言語リンク集
-2020年ごろ?
-
-* [https://japan.fandom.com/wiki/%E6%9E%B6%E7%A9%BA%E3%81%AE%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7 架空の言語一覧] - 架空の言語一覧 | Japan | Fandom
-
-* [https://w.atwiki.jp/kakis/pages/5471.html#id_1b7f8ccd アーカイブ] - atwiki（アットウィキ） 
-
-* [https://sites.google.com/site/faraspalt/links?authuser=0 Faras' Room] - Links 
-
-* [https://w.atwiki.jp/kursodeesperanto/pages/36.html アルカ-リンク] - はじめてのエスペラント - atwiki（アットウィキ）  
-
-* [https://w.atwiki.jp/koreori/ 世界模擬実験塔設定集] - atwiki（アットウィキ） 
+'''日本語圏の人工言語の一覧表'''（にほんごけんのじんこうげんごのいちらんひょう）では、日本語で発表された[[人工言語]]を年代順に一覧にして示す。
+　発表とは、刊行物が発行されているか、ネット上のアクセス自由なurlで言語の存在が直接または間接的に言及されていることを指す。ここでの人工言語は換字式暗号や表記法などを含む。なお、これは完全な一覧とは限らないことに注意されたい。
 """
 
 
@@ -249,18 +198,80 @@ md+="""
 ==一覧=="""
 md += dic2md(dic)
 
+# md +="""
+
+# ==関連項目==
+# *[[架空世界]]
+# *[[架空国家の一覧]]
+
+# {{仮名|にほんのしんこうけんこいちらん}}
+# [[Category:一覧]]
+# [[Category:架空言語]]
+# [[Category:人工言語]]
+# """
 md +="""
 
-==関連項目==
-*[[架空世界]]
-*[[架空国家の一覧]]
+== 出典 ==
+* [http://dos.chottu.net/conlang_link.html?l=index 人工言語リスト 日本人による人工言語（アイウエオ順] - 2nd LVG IMG.The Second Living Image.
+** 2004年
 
-{{仮名|にほんのしんこうけんこいちらん}}
-[[Category:一覧]]
-[[Category:架空言語]]
-[[Category:人工言語]]
+* [https://conlinguistics.org/link.html 人工言語リンク集] - 人工言語学
+** 2012年
+
+* [https://conlinguistics.fandom.com/ja/wiki/%E8%A8%80%E8%AA%9E%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7 言語記事一覧] - 人工言語wiki
+** 2016年ごろと思われる
+
+* [https://itest.5ch.net/test/read.cgi/twwatch/1513511369/ 人工言語界隈リスト] - 5ch
+** 2017-12-17
+
+* [https://docs.google.com/spreadsheets/d/1t_WxHJ_b39PWXIMauHwnSww_Ac2m_Mw7zC-vQkp59PQ/edit#gid=0 人工言語を作ってるor勉強してる人が少し分かるリスト] - Maycia Arenberg
+** 2018-02-24
+** 現在はリクエスト承認が必要という表示が出る
+** [https://x.com/mayciaarenberg/status/963447200087879680?s=46&t=rWvY73qZa5Ie23yU0UA6WA 紹介ツイート]
+** [https://twitter.com/jin_kou_gengo 人工言語クラスタフォロー]というこのリストに入っていたアカウントをフォローするアカウントがあったため、少し漏れがあるがリストを復元することができる。@2me_ma_sagiさんありがとう
+
+* [http://twoc.ever.jp/twoc/conlang.cgi?mode=list 辞書リスト] - The world of conlangs
+** 2020年ごろ
+
+* [https://sites.google.com/site/moyacilang/conlanglist 人工言語リスト] - slaimsan
+** たぶんもっとも網羅的
+** 2020年
+
+* [https://ziphil.com/other/other/1.html リンク集 人工言語] - Ziphil
+** 文法が確認できるものに絞って載せている
+** 2021年3月
+
+* [https://x.com/i/lists/994189952551346176 conlanger] - Mikanixonable
+** ツイッターの人工言語ラーのリスト
+** 2023年
+
+* [https://tanukipedia.miraheze.org/wiki/%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E 架空言語] - Tanukipedia (タヌキペディア) 
+** 2023年
+
+* [https://sites.google.com/view/ryuuka/k-ren-gong-yan-yurinku-ji?authuser=0 人工言語 柳霞] - J．人工言語リンク集
+** 2020年ごろ?
+
+* [https://japan.fandom.com/wiki/%E6%9E%B6%E7%A9%BA%E3%81%AE%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7 架空の言語一覧] - 架空の言語一覧 | Japan | Fandom
+
+* [https://w.atwiki.jp/kakis/pages/5471.html#id_1b7f8ccd アーカイブ] - atwiki（アットウィキ） 
+
+* [https://sites.google.com/site/faraspalt/links?authuser=0 Faras' Room] - Links 
+
+* [https://w.atwiki.jp/kursodeesperanto/pages/36.html アルカ-リンク] - はじめてのエスペラント - atwiki（アットウィキ）  
+
+* [https://w.atwiki.jp/koreori/ 世界模擬実験塔設定集] - atwiki（アットウィキ） 
+
+== 関連項目 ==
+* [[人工言語の一覧]]
+* [[人工言語の一覧 (世界別)]]
+* [[人工言語の漢字表記一覧]]
+
+{{DEFAULTSORT:にほんこけんのじんこうけんこいちらんひよう}}
+
+[[カテゴリ:一覧記事|*]]
+[[カテゴリ:人工言語の一覧|*]]
+
 """
-
     
 def convert_to_wiki_link(input_string):
     # 正規表現パターンを定義

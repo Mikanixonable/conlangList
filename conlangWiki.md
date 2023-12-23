@@ -1,82 +1,38 @@
 
-'''日本語圏人工言語の一覧'''（にほんごけんじんこうげんごのいちらん）では、日本語で情報が発表された人工言語を一覧にして示す。
+'''日本語圏の人工言語の一覧表'''（にほんごけんのじんこうげんごのいちらんひょう）では、日本語で発表された[[人工言語]]を年代順に一覧にして示す。
+　発表とは、刊行物が発行されているか、ネット上のアクセス自由なurlで言語の存在が直接または間接的に言及されていることを指す。ここでの人工言語は換字式暗号や表記法などを含む。なお、これは完全な一覧とは限らないことに注意されたい。
 
-
-== 日本語圏人工言語リスト==
-　言語の説明やCLAコードの入ったcsvデータは以下のリンクからアクセスできます。
-https://mikanixonable.github.io/data/conlang.csv
-
-== 底としたリスト ==
-* [http://dos.chottu.net/conlang_link.html?l=index 人工言語リスト 日本人による人工言語（アイウエオ順] - 2nd LVG IMG.The Second Living Image.
-2004年
-
-* [https://conlinguistics.org/link.html 人工言語リンク集] - 人工言語学
-2012年
-
-* [https://conlinguistics.fandom.com/ja/wiki/%E8%A8%80%E8%AA%9E%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7 言語記事一覧] - 人工言語wiki
-2016年ごろと思われる
-
-* [https://itest.5ch.net/test/read.cgi/twwatch/1513511369/ 人工言語界隈リスト] - 5ch
-2017-12-17
-
-* [https://docs.google.com/spreadsheets/d/1t_WxHJ_b39PWXIMauHwnSww_Ac2m_Mw7zC-vQkp59PQ/edit#gid=0 人工言語を作ってるor勉強してる人が少し分かるリスト] - Maycia Arenberg
-2018-02-24
-現在はリクエスト承認が必要という表示が出る
-[https://x.com/mayciaarenberg/status/963447200087879680?s=46&t=rWvY73qZa5Ie23yU0UA6WA 紹介ツイート]
-[https://twitter.com/jin_kou_gengo 人工言語クラスタフォロー]というこのリストに入っていたアカウントをフォローするアカウントがあったため、少し漏れがあるがリストを復元することができる。@2me_ma_sagiさんありがとう
-
-* [http://twoc.ever.jp/twoc/conlang.cgi?mode=list 辞書リスト] - The world of conlangs
- 2020年ごろ
-
-* [https://sites.google.com/site/moyacilang/conlanglist 人工言語リスト] - slaimsan
-たぶんもっとも網羅的
-2020年
-
-* [https://ziphil.com/other/other/1.html リンク集 人工言語] - Ziphil
-文法が確認できるものに絞って載せている
-2021年3月
-
-* [https://x.com/i/lists/994189952551346176 conlanger] - Mikanixonable
-私みかぶるが手当たり次第人工言語作者っぽい人を入れているツイッターの人工言語ラーのリスト
-2023年
-
-* [[mh:tanukipedia:%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E|架空言語]] - Tanukipedia (タヌキペディア) 
-2023年
-
-* [https://sites.google.com/view/ryuuka/k-ren-gong-yan-yurinku-ji?authuser=0 人工言語 柳霞] - J．人工言語リンク集
-2020年ごろ?
-
-* [https://japan.fandom.com/wiki/%E6%9E%B6%E7%A9%BA%E3%81%AE%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7 架空の言語一覧] - 架空の言語一覧 | Japan | Fandom
-
-* [https://w.atwiki.jp/kakis/pages/5471.html#id_1b7f8ccd アーカイブ] - atwiki（アットウィキ） 
-
-* [https://sites.google.com/site/faraspalt/links?authuser=0 Faras' Room] - Links 
-
-* [https://w.atwiki.jp/kursodeesperanto/pages/36.html アルカ-リンク] - はじめてのエスペラント - atwiki（アットウィキ）  
-
-* [https://w.atwiki.jp/koreori/ 世界模擬実験塔設定集] - atwiki（アットウィキ） 
+==一覧==
 {| class="wikitable" style="margin:auto"
 |+ 人工言語一覧
 |-
 ! 言語名 !! 年代 !! 作者 !! 説明 !! 架空世界 !! 分類 !! 資料
 |-
-| u_lang  || 2023 || efal<br />twitter: [https://twitter.com/uosakana_u @uosakana_u] ||  ||  ||  ||    [https://migdal.jp/u_/ulang-%E6%96%87%E6%B3%95%E6%A6%82%E8%A6%81-10-54o3 文法]
+| u_lang  || 2023 || efal<br />twitter: [https://twitter.com/uosakana_u @uosakana_u] ||  ||  || アプリオリ言語 ||    [https://migdal.jp/u_/ulang-%E6%96%87%E6%B3%95%E6%A6%82%E8%A6%81-10-54o3 文法]
+|-
+| 暁語<br />漢字言語名: 暁語  || 2020-2022 || 暁理<br />twitter: [https://twitter.com/gyoh_learnlearn @gyoh_learnlearn] ||  ||  || 芸術言語 ||    
+|-
+| カロス語  || 2023 || Kalos<br />twitter: [https://twitter.com/Puomiaviq @Puomiaviq] || twitterユーザのKalos氏(https://twitter.com/Puomiaviq)がツイートに用いる言語。作者は日本語で情報を発表していないが、日本語圏の人工言語趣味者によって情報がまとめられ、仮に「カロス語」と呼ばれている。 ||  || 未解読言語 ||    
+|-
+| エレギア語  || 2023 || たーなっぷ ||  ||  ||  ||    
+|-
+| アクラムス語  || 2021-2022 ||  || 佐藤陽花氏のツイートで言及される ||  ||  ||    
 |-
 | 3CL  || 2004-2006 ||  || 英単語を縮めた三文字で意味を伝える国際補助語 ||  || 国際補助語 ||    [https://web.archive.org/web/20041010133035/http://www.geocities.co.jp/SiliconValley/3338/ サイト2][https://web.archive.org/web/20041031105937/http://www.geocities.co.jp/SiliconValley/3338/page019.html サイト3][https://web.archive.org/web/20050128142511/http://www.geocities.co.jp/SiliconValley/3338/page006.html 文法]
 |-
-| ウリアヂェオ語  || 2023 ||  ||  ||  ||  ||    [https://zpdic.ziphil.com/dictionary/1367 辞書]
+| ウリアヂェオ語  || 2023 || arkh9 || ZpDICの辞書で存在が確認できる言語。 ||  ||  ||    [https://zpdic.ziphil.com/dictionary/1367 辞書]
 |-
-| ラゼフ語  || 2023 || Atridott<br />twitter: [https://twitter.com/LT_Thovilia/status/1730227300010963138 @LT_Thovilia] ||  ||  ||  ||    [https://zpdic.ziphil.com/dictionary/raqef 辞書]
+| ラゼフ語  || 2023 || Atridott<br />twitter: [https://twitter.com/LT_Thovilia/status/1730227300010963138 @LT_Thovilia] || ZpDICの辞書で存在が確認できる言語。 ||  ||  ||    [https://zpdic.ziphil.com/dictionary/raqef 辞書]
 |-
-| ワウーン語  || 2023 || Sasho-Shirokami ||  || ワウーンの世界 ||  ||    [https://zpdic.ziphil.com/dictionary/waoon 辞書]
+| ワウーン語  || 2023 || Sasho-Shirokami || 獣人のいる世界で使われる言語。複雑な母音や子音がなく、子音に相当する7段階の「発話音階」または「ウワーン音階」と、母音に相当する「母拍 」または「 ワウーン拍子」で音節（に相当する単位）を組み立てていく。語順はSOV || ワウーンの世界 || 芸術言語 ||    [https://zpdic.ziphil.com/dictionary/waoon 辞書]
 |-
-|  アーティフィガッシュ  || 2017 || キューマン, キューマン・エノビクト<br />twitter: [https://twitter.com/QmanEnobikto @QmanEnobikto] ||  ||  ||  ||    [https://artifigush.jimdofree.com/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%E8%A7%A3%E8%AA%AC/ 文法][https://zpdic.ziphil.com/dictionary/35 辞書][https://artifigush.jimdofree.com/%E3%81%9D%E3%81%AE%E4%BB%96/ 辞書2][https://www.mediafire.com/file/31z1ow8gadowjbt/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%E8%BE%9E%E6%9B%B8.json 辞書3]
+|  アーティフィガッシュ<br />漢字言語名: 亞語  || 2017-2020 || キューマン, キューマン・エノビクト<br />twitter: [https://twitter.com/QmanEnobikto @QmanEnobikto] || Twitterで使いやすくするという理由でプレーンなラテン文字で表記する。アポストロフィーで長音を表す。語形変化が極めて少なく、過去や未来、否定文などの表現をすべて「文頭文性語」によって代替させる。例えば過去文頭文性語である「jakt」を文頭に置くと文が過去形になる。 ||  ||  ||    [https://artifigush.jimdofree.com/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%E8%A7%A3%E8%AA%AC/ 文法][https://zpdic.ziphil.com/dictionary/35 辞書][https://artifigush.jimdofree.com/%E3%81%9D%E3%81%AE%E4%BB%96/ 辞書2][https://www.mediafire.com/file/31z1ow8gadowjbt/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%82%A3%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%E8%BE%9E%E6%9B%B8.json 辞書3]
 |-
-| ア語  || 2014 || slaimsan, もやし || アラズ語に影響を受けて作られた言語。アラズ語は単語がないが、ア語は単語が「A」の一つだけある。アラズ語が最も習得しやすい言語なら、ア語は二番目に習得しやすい言語である。 ||  || 実験的言語, PHI/JOK ||    
+| ア語  || 2014-2019 || slaimsan, もやし || アラズ語に影響を受けて作られた言語。アラズ語は単語がないが、ア語は単語が「A」の一つだけある。アラズ語が最も習得しやすい言語なら、ア語は二番目に習得しやすい言語である。 ||  || 実験的言語, ネタ言語<br />モユネ分類: PHI/JOK ||    
 |-
-| 亜共語  || 2017-2018 || Ikku<br />twitter: [https://twitter.com/ikku0925 @ikku0925] || アジア共通語として制作された。漢字とキリル文字を混ぜて使う。　<br />紹介動画: https://www.youtube.com/watch?app=desktop&v=OqDv2iKxMTI　<br />音声資料: https://www.youtube.com/watch?v=FKenvInbOY0<br />表記: 漢字, キリル文字 ||  ||  ||    
+| 亜共語  || 2017-2018 || Ikku<br />twitter: [https://twitter.com/ikku0925 @ikku0925] || アジア共通語として制作された。日本語と中国語を中心に語彙を借用し、漢字とキリル文字を混ぜて使う。紹介動画: https://www.youtube.com/watch?app=desktop&v=OqDv2iKxMTI　<br />音声資料: https://www.youtube.com/watch?v=FKenvInbOY0<br />表記: 漢字キリル文字混用 ||  || アポステリオリ言語 ||    
 |-
-| アコトマ語  || 2018 || ての / TENO<br />twitter: [https://twitter.com/MapleSyrupped @MapleSyrupped] ||  ||  || 芸術言語 ||    [https://www.pixiv.net/artworks/67742715 サイト2][https://www.pixiv.net/artworks/67452667 サイト3]
+| アコトマ語  || 2018 || ての / TENO<br />twitter: [https://twitter.com/MapleSyrupped @MapleSyrupped] || 標語文字をもつ言語<br />表記: 独自の文字 ||  || 芸術言語 ||    [https://www.pixiv.net/artworks/67742715 サイト2][https://www.pixiv.net/artworks/67452667 サイト3]
 |-
 | アルカ<br />漢字言語名: 幻語  || 1993-2013 || seren arbazard(1981-), セレン・アルバザード, 貞苅詩門<br />twitter: [https://twitter.com/serenarbazard @serenarbazard] || FF4の登場人物リディアが使っている言語というイメージで1993年から製作が始まった。後にアプリオリ性を高めてアルシディアと呼ばれる架空世界の文化をバックグラウンドにした芸術言語となった。2001年から2008年まで続いたとされる制アルカ、2008年から製作された新生アルカ、2013年の作者収監後にコミュニティーによって存続した俗アルカなどの複数のバージョンがある。架空世界の文化のリアリティーにこだわり、辞書の各見出し語には長い語義がある。2017年にセレン氏個人の言語創作に戻る旨(https://togetter.com/li/1088421)の連絡があり、セレン氏個人の言語が俗に獄アルカと呼ばれる。かつては1990年代に創作集団によって製作されたとしていたが、2018年に嘘の製作史だったことがアルカの書(https://conlinguistics.org/blog/?p=689)で作者が告白した。ネット上に初めて公開されたのは2005年(https://w.atwiki.jp/kakis/pages/10469.html)。アルカに影響を受けて多くの人工言語が誕生した。　<br />ユーザーによる試料サイト：https://w.atwiki.jp/kakis/ || アルシディア || 芸術言語<br />モユネ分類: ART/NAT/REA/IMG/CDE/GEN/SON/LIT/SER/AAV<br />CLAコード: {cla1}ark-rx, {cla3}~_as_~_arx ||    [https://w.atwiki.jp/kakis/ サイト2][https://arxidia.another.jp/atwiki8-arbazard/ サイト3][https://conlinguistics.org/arka/study_yuli_2.html 文法][げんにちじてん：https://conlinguistics.org/klel/ 辞書][俗アルカ辞典：https://mindsc.ape.jp/klel/ 辞書2][https://arxidia.another.jp/arxidiaklel/?dic=arka 辞書3]
 |-
@@ -114,7 +70,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | Ebẹsa language  || 2022-2023 || フクロウナギ, apupuna<br />twitter: [https://twitter.com/apupuna1 @apupuna1] || 言語公式ツイッターアカウント：https://twitter.com/A_P_conlang　<br />記事1：https://migdal.jp/apupuna1/ebesa-language-%E3%81%AE%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8-4h60 ||  ||  ||    [https://migdal.jp/apupuna1/ebesa-language-%E3%81%AE%E8%AA%9E%E4%B8%80%E8%A6%A7-2i7p 辞書]
 |-
-| オ゛ェｼﾞｭルニョェーッ語<br />異称: , オエル語, ?ezn?'bix  || 2021 || loyuka(koloka), 佐藤陽花, Xirdim, スヴェイン<br />twitter: [[mh:twitter.com/Loyuka_nua2 @Loyuka_nua2] ||  || あり || <br />CLAコード: {cla1}fez-fb,  {cla2}fez/fb,  {cla3}~_fz_fzb_brl ||    [https://migdal:%E3%82%AA%E3%82%9B%E3%82%A7%EF%BD%BC%EF%BE%9E%EF%BD%AD%E3%83%AB%E3%83%8B%E3%83%A7%E3%82%A7%E3%83%BC%E3%83%83%E8%AA%9E%E6%96%87%E5%85%B8|文法]]
+| オ゛ェｼﾞｭルニョェーッ語<br />異称: , オエル語, ?ezn?'bix  || 2021 || loyuka(koloka), 佐藤陽花, Xirdim, スヴェイン<br />twitter: [https://twitter.com/Loyuka_nua2 @Loyuka_nua2] ||  || あり || <br />CLAコード: {cla1}fez-fb,  {cla2}fez/fb,  {cla3}~_fz_fzb_brl ||    [https://migdal.miraheze.org/wiki/%E3%82%AA%E3%82%9B%E3%82%A7%EF%BD%BC%EF%BE%9E%EF%BD%AD%E3%83%AB%E3%83%8B%E3%83%A7%E3%82%A7%E3%83%BC%E3%83%83%E8%AA%9E%E6%96%87%E5%85%B8 文法]
 |-
 | オーレー語  || 2013 || 人工言語オーレー語学会 || 単語数10万を誇るアプリオリ言語。wikipediaの項目名から自動生成したと思われる。 || なし || アプリオリ言語, 冗談言語, 国際補助語 ||    [http://conl.web.fc2.com/bunpo.html 文法][http://conl.web.fc2.com/kword.html 辞書]
 |-
@@ -202,7 +158,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | ジェン語  || 2007 || 漸屋じぇんや ||  ||  ||  ||    
 |-
-| シャレイア語  || 2012年1月-2023 || Ziphil, Ziphil Aleshlas, Ziphil Shaleiras, Ziphineko<br />twitter: [https://twitter.com/Ziphil @Ziphil] || 自作RPGゲームの世界で使われる言語として制作が開始されたが、現在は世界観をもたない言語となっている。作者の世界の見方を言語として形にしようとしている。文法は、シンプルさを目指して設計されている。VSO語順でアンシェヌマンを起こす。独自の文字のフォントが充実している。JOL2021の問題に採用された。作者がクイズノックに所属しているためクイズノックのチャンネルに登場することがある。旧サイト：https://web.archive.org/web/20160719233303/http://www5.pf-x.net/~lbsrpg/　<br />シャレイア語 まとめて検索(非公式)：https://na2co3.exp.jp/shaleian-bulk-search/ || なし || 芸術言語, アポステリオリ言語<br />モユネ分類: INT/ART/PHI/GEN/SON/REA/LIT/SER/PAV<br />CLAコード: {cla1}xal-zp,  {cla3}~_xl_~_zph ||    [https://ziphil.com/conlang/reference/ 文法][https://dic.ziphil.com/ 辞書]
+| シャレイア語<br />漢字言語名: 祠語, 謝語, 顎語  || 2012年1月-2023 || Ziphil, Ziphil Aleshlas, Ziphil Shaleiras, Ziphineko<br />twitter: [https://twitter.com/Ziphil @Ziphil] || 自作RPGゲームの世界で使われる言語として制作が開始されたが、現在は世界観をもたない言語となっている。作者の世界の見方を言語として形にしようとしている。文法は、シンプルさを目指して設計されている。VSO語順でアンシェヌマンを起こす。独自の文字のフォントが充実している。JOL2021の問題に採用された。作者がクイズノックに所属しているためクイズノックのチャンネルに登場することがある。旧サイト：https://web.archive.org/web/20160719233303/http://www5.pf-x.net/~lbsrpg/　<br />シャレイア語 まとめて検索(非公式)：https://na2co3.exp.jp/shaleian-bulk-search/ || なし || 芸術言語, アポステリオリ言語<br />モユネ分類: INT/ART/PHI/GEN/SON/REA/LIT/SER/PAV<br />CLAコード: {cla1}xal-zp,  {cla3}~_xl_~_zph ||    [https://ziphil.com/conlang/reference/ 文法][https://dic.ziphil.com/ 辞書]
 |-
 | 習作言語serix  || 2006 || seren arbazard(1981-), セレン・アルバザード, 貞苅詩門 || 人工言語の作り方を解説するために、アルカ作者のセレン氏によって作られた言語 ||  ||  ||    [https://arxidia.another.jp/lanxante/serix_4.html 辞書]
 |-
@@ -390,7 +346,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | Palams  || 2012年7月-2013 || Faras=Tilasos || blog: ameblo.jp/palam-blog/ || あり || アプリオリ言語 ||    [https://w.atwiki.jp/palams/pages/35.html 文法][https://w.atwiki.jp/palams/pages/75.html 辞書]
 |-
-| Hiktan語  || 2012年5月-2019 || 想像地図の人<br />twitter: [[mh:twitter.com/koridentetsu @koridentetsu] || 日本語の使われる架空地図プロジェクト「創造地図」内(実際には翻訳で日本語に見えているとされる)で、日本語ではない地名が使われるヒッタン国の言語として登場する。ヒッタン文字という文字で表記する。 || 想像地図, 想界 || アプリオリ言語 ||    [https://tanukipedia:%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95|辞書]]
+| Hiktan語  || 2012年5月-2019 || 想像地図の人<br />twitter: [https://twitter.com/koridentetsu @koridentetsu] || 日本語の使われる架空地図プロジェクト「創造地図」内(実際には翻訳で日本語に見えているとされる)で、日本語ではない地名が使われるヒッタン国の言語として登場する。ヒッタン文字という文字で表記する。 || 想像地図, 想界 || アプリオリ言語 ||    [https://tanukipedia.miraheze.org/wiki/%E3%83%92%E3%83%83%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95 辞書]
 |-
 | ソフラ語  || 2022-2023 || Beisklafki Barsak, B.クラサク, べいすくらふき<br />twitter: [https://twitter.com/LakshishBarsak @LakshishBarsak] || 音声資料(https://twitter.com/LakshishBarsak/status/1566336958590521345) ||  ||  ||    
 |-
@@ -464,19 +420,23 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | Lingo Mondo  || 2006-2012 || 縄田幹治 || ホームページトップのみアーカイブに残っているが文法や語彙は2023年時点でアクセスできない。人工言語野では活用や格変化がないと紹介されている。(https://dos.chottu.net/conlang_link.html?l=index) ||  || 国際補助語 ||    [https://souzoumap.menhera.io/Taosenai/Ekimeigojiten.HTM 辞書]
 |-
+| 22  || 2023 || skytomo || 21世紀のための国際補助語というコンセプトで作られたノシロ語を意識して、22世紀のための国際補助語というコンセプトで制作されている。「西暦2100年までに完成予定」としている。OSI参照モデルに似たRFC層という概念を採用している。 ||  || 国際補助語 ||    
+|-
+| 120210823語  || 2023 || skytomo<br />twitter: [https://twitter.com/skytomo221 @skytomo221] ||  ||  || 個人言語 ||    
+|-
 | wentiay-bangao  || 2023 || skytomo<br />twitter: [https://twitter.com/skytomo221 @skytomo221] ||  ||  ||  ||    
 |-
-| LoCoS  || 1991-2008 || 太田幸夫 || 多摩美術大学デザイン学科の太田幸夫教授が1971年に雑誌グラフィックデザイン42号に公表、1991年にウィーンで行われた視覚コミュニケーションの国際会議で発表した、ピクトグラムによる視覚型国際補助語。作者の太田教授は、非常出口のピクトグラムを日本以外に広めたことで知られる。　<br />https://web.archive.org/web/20070602161826/http://www.jiten.com/dicmi/docs/l/6981s.htm　<br />https://web.archive.org/web/20080221165546/http://www.innovative.jp/interview/2006/0125.php ||  ||  ||    
+| LoCoS  || 1991-2008 || 太田幸夫 || 多摩美術大学デザイン学科の太田幸夫教授が1971年に雑誌グラフィックデザイン42号に公表、1991年にウィーンで行われた視覚コミュニケーションの国際会議で発表した、ピクトグラムによる視覚型国際補助語。作者の太田教授は、非常出口のピクトグラムを日本以外に広めたことで知られる。　<br />https://web.archive.org/web/20070602161826/http://www.jiten.com/dicmi/docs/l/6981s.htm　<br />https://web.archive.org/web/20080221165546/http://www.innovative.jp/interview/2006/0125.php ||  || 国際補助語, 絵文字言語 ||    
 |-
 | 時雨語  || 2017 || 時雨薫<br />twitter: [https://twitter.com/wojiaomolotov @wojiaomolotov] ||  ||  ||  ||    [https://conlinguistics.fandom.com/ja/wiki/%E6%99%82%E9%9B%A8%E8%AA%9E#%E6%96%87%E5%9E%8B 文法]
 |-
-| 日本駅名語  || 2015-2023 || 4b3, はらしとと, 想像地図研究所<br />twitter: [[mh:twitter.com/koridentetsu @koridentetsu] || 元ネタの曲と響きの似ている駅名で替え歌をする動画ジャンル「駅名替え歌」(垰瀬内シリーズ)で使われる駅名を言語とみなすことで生まれた言語。 ||  || <br />モユネ分類: ART/REA/SER/SPE/SON/AWL ||    [https://tanukipedia:%E6%97%A5%E6%9C%AC%E9%A7%85%E5%90%8D%E8%AA%9E#%E6%96%87%E6%B3%95|文法]][https://souzoumap.menhera.io/Taosenai/Ekimeigojiten.HTM 辞書]
+| 日本駅名語  || 2015-2023 || 4b3, はらしとと, 想像地図研究所<br />twitter: [https://twitter.com/koridentetsu @koridentetsu] || 元ネタの曲と響きの似ている駅名で替え歌をする動画ジャンル「駅名替え歌」(垰瀬内シリーズ)で使われる駅名を言語とみなすことで生まれた言語。 ||  || <br />モユネ分類: ART/REA/SER/SPE/SON/AWL ||    [https://tanukipedia.miraheze.org/wiki/%E6%97%A5%E6%9C%AC%E9%A7%85%E5%90%8D%E8%AA%9E#%E6%96%87%E6%B3%95 文法][https://souzoumap.menhera.io/Taosenai/Ekimeigojiten.HTM 辞書]
 |-
-| 更紗語（さらさご）  || 2020-2023 || 時雨薫, 想像地図の人<br />twitter: [[mh:twitter.com/wojiaomolotov @wojiaomolotov] || 想像地図プロジェクトの城栄国でもっともよく離される言語で、千織語の千織字をもとに作られた更紗字を用いる。構想は2014年から　<br />https://tanukipedia:%E6%9B%B4%E7%B4%97%E8%AA%9E#%E5%8D%98%E8%AA%9E||| 想像地図, 想界 || アプリオリ言語<br />モユネ分類: NAT/IMG/SER ||    [https://tanukipedia.miraheze.org/wiki/%E6%9B%B4%E7%B4%97%E8%AA%9E#%E6%96%87 文法]][https://zpdic.ziphil.com/dictionary/sarasa 辞書]
+| 更紗語（さらさご）  || 2020-2023 || 時雨薫, 想像地図の人<br />twitter: [https://twitter.com/wojiaomolotov @wojiaomolotov] || 想像地図プロジェクトの城栄国でもっともよく離される言語で、千織語の千織字をもとに作られた更紗字を用いる。構想は2014年から　<br />https://tanukipedia.miraheze.org/wiki/%E6%9B%B4%E7%B4%97%E8%AA%9E#%E5%8D%98%E8%AA%9E || 想像地図, 想界 || アプリオリ言語<br />モユネ分類: NAT/IMG/SER ||    [https://tanukipedia.miraheze.org/wiki/%E6%9B%B4%E7%B4%97%E8%AA%9E#%E6%96%87 文法][https://zpdic.ziphil.com/dictionary/sarasa 辞書]
 |-
 | 千織語  || 2014-2023 || 想像地図の人<br />twitter: [https://twitter.com/koridentetsu @koridentetsu] || 想像地図プロジェクトの千織国(森国)で使われる。千織字と呼ばれる漢字に似た文字で表記する。 || 想像地図, 想界 || アプリオリ言語 ||    [http://twoc.ever.jp/twoc/conlang.cgi?mode=search&user_id=YuriOruta 辞書]
 |-
-| ヘツクース語<br />漢字言語名: 2020年8月に陽花さんが開始、2023年より想像地図の人へ交替  || 2020-2023 || 陽花さん, 想像地図の人<br />twitter: [[mh:twitter.com/koridentetsu @koridentetsu] || 想像地図プロジェクトの城栄国北部の北陽道の先住民によって使われる。 || 想像地図, 想界 || アプリオリ言語 ||    [https://hetukuusika:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8|辞書]]
+| ヘツクース語<br />漢字言語名: 2020年8月に陽花さんが開始、2023年より想像地図の人へ交替  || 2020-2023 || 陽花さん, 想像地図の人<br />twitter: [https://twitter.com/koridentetsu @koridentetsu] || 想像地図プロジェクトの城栄国北部の北陽道の先住民によって使われる。 || 想像地図, 想界 || アプリオリ言語 ||    [https://hetukuusika.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8 辞書]
 |-
 | ルノア語  || 2007 || 2ch人工言語スレ住民 ||  ||  ||  ||    [https://w.atwiki.jp/rnoa/pages/4.html 文法][ 辞書][https://w.atwiki.jp/rnoa/pages/30.htmlhttps://w.atwiki.jp/rnoa/pages/7.html 辞書2][https://w.atwiki.jp/rnoa/pages/28.html 辞書3][https://w.atwiki.jp/rnoa/pages/29.html 辞書4]
 |-
@@ -494,9 +454,9 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | 人國語  || 2019-2023 || 高坂優希<br />twitter: [https://twitter.com/koropinkoropin @koropinkoropin] || 漢字語表記されたアイヌ語の架空史 ||  ||  ||    
 |-
-| ニャンコ語  || 2018-2020 || 蒼山菘, L?ik? Suzuna, 蒼山すずな<br />twitter: [[mh:twitter.com/nanakusa_003/ @nanakusa_003] ||  ||  ||  ||    [https://tanukipedia:%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%B3%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ニャンコ語  || 2018-2020 || 蒼山菘, L?ik? Suzuna, 蒼山すずな<br />twitter: [https://twitter.com/nanakusa_003/ @nanakusa_003] ||  ||  ||  ||    [https://tanukipedia.miraheze.org/wiki/%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%B3%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ぽみ語  || 2018 || さばこさんの子供<br />twitter: [[mh:twitter.com/pomi_go @pomi_go], [https://twitter.com/saba_sono4 @saba_sono4] || 7歳の子供の話す言葉を収集したもの、ぽみは「平和」という意味。(https://twitter.com/saba_sono4/status/1125263316492869635) ||  ||  ||    [https://tanukipedia:%E3%81%BD%E3%81%BF%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ぽみ語  || 2018 || さばこさんの子供<br />twitter: [https://twitter.com/pomi_go @pomi_go], [https://twitter.com/saba_sono4 @saba_sono4] || 7歳の子供の話す言葉を収集したもの、ぽみは「平和」という意味。(https://twitter.com/saba_sono4/status/1125263316492869635) ||  ||  ||    [https://tanukipedia.miraheze.org/wiki/%E3%81%BD%E3%81%BF%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
 | ラヴィーム語  || 2013 || jus rahaaza || 資料なし。リンクリストや掲示板での言及から存在が確認できる || あり ||  ||    
 |-
@@ -924,7 +884,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | ミザソーグ語  || 2018-2023 || 蒼山菘, L?ik? Suzuna, 蒼山すずな<br />twitter: [https://twitter.com/nanakusa_003/ @nanakusa_003] ||  || 観測世界(観界) ||  ||    [https://drive.google.com/file/d/1Yd7Ycu6KpXoSSq_nELNHGzt9k8gA-myn/view 文法][https://zpdic.ziphil.com/dictionary/141 辞書]
 |-
-| トリフィア語  || 2019-2020 || 高場俊介 ||  || トリフィア ||  ||    [[mh:tanukipedia:%E3%83%88%E3%83%AA%E3%83%95%E3%82%A3%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| トリフィア語  || 2019-2020 || 高場俊介 ||  || トリフィア ||  ||    [https://tanukipedia.miraheze.org/wiki/%E3%83%88%E3%83%AA%E3%83%95%E3%82%A3%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
 | イタペップ語  || 2020 ||  || 資料なし。スライムさんによるリスト(-2020)に名前だけがありtanukipediaにもリンクがあるが記事はなく架空言語一般に転送される。https://tanukipedia.miraheze.org/wiki/%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E ||  ||  ||    
 |-
@@ -952,7 +912,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | ハルマット<br />異称: , リュニパルト語, モネルヴ(旧名), モナラン(旧名)  || 2014-2015 || akvis<br />twitter: [https://twitter.com/harmat_noln @harmat_noln] || 語順がSOV/AN/Prの言語 ||  ||  ||    [https://web.archive.org/web/20190622052700/https://sites.google.com/site/ryuniparutoyuwiki/hajimetenoharumatto-1 文法]
 |-
-| シュニティヤ語  || 2019 ||  ||  || フィートレン大陸 ||  ||    [[mh:kakukokka:%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A4%E8%AA%9E/%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95|文法]][[mh:kakukokka:%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A4%E8%AA%9E/%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E|辞書]]
+| シュニティヤ語  || 2019 ||  ||  || フィートレン大陸 ||  ||    [https://kakukokka.miraheze.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A4%E8%AA%9E/%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95 文法][https://kakukokka.miraheze.org/wiki/%E3%82%B7%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%A4%E8%AA%9E/%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E 辞書]
 |-
 | シュラート語  || 2020 ||  || スライムさんのリスト(https://sites.google.com/site/moyacilang/conlanglist)にある不明言語 ||  ||  ||    
 |-
@@ -1000,6 +960,12 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | スヮドゥン語族  || 2021-2022 || Rhemestry Atrespote, りめすとり<br />twitter: [https://twitter.com/tsarhfis @tsarhfis], [https://twitter.com/rhemestry @rhemestry] ||  ||  ||  ||    
 |-
+| Inhaik=Ailetphĩna語  || 2023 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] ||  ||  ||  ||    
+|-
+| Jejbiq語  || 2023 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] ||  ||  ||  ||    
+|-
+| オイナルシャルム語<br />異称: , Oinarшalm, 外語, 相賦語  || 2023 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] || 外語 ||  ||  ||    
+|-
 | ミグダル語<br />異称: , Migdal Language, 御具樽語  || 2021/8/19 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] ||  ||  ||  ||    
 |-
 | グロールド語  || 2021/8/27 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] ||  ||  ||  ||    
@@ -1016,7 +982,13 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | アルクブロ語  || 2022/12/23 || 佐藤陽花<br />twitter: [https://twitter.com/Distr_to_Yonder @Distr_to_Yonder] || https://migdal.jp/mikanixonable/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%BA%BA%E5%B7%A5%E8%A8%80%E8%AA%9E%E7%B0%A1%E6%98%93%E4%B8%80%E8%A6%A7-2023-%E5%B9%B4-12-%E6%9C%88-3k46 ||  ||  ||    
 |-
-| 雰語<br />漢字言語名: 雰語  || 2021-2023 || かえる<br />twitter: [[mh:twitter.com/kaeru2193 @kaeru2193] ||  || 永球(雰界) || <br />CLAコード: ~_pn_phn_kar ||    [https://phunworld:%E9%9B%B0%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95|文法]][https://dict.kaeru2193.net/ 辞書]
+| TOPUI   || 1905/7/15 || かえる<br />twitter: [https://twitter.com/kaeru2193 @kaeru2193] ||  ||  ||  ||    
+|-
+| 雰語<br />漢字言語名: 雰語  || 2021-2023 || かえる<br />twitter: [https://twitter.com/kaeru2193 @kaeru2193] ||  || 永球(雰界) || <br />CLAコード: ~_pn_phn_kar ||    [https://phunworld.miraheze.org/wiki/%E9%9B%B0%E8%AA%9E%E3%81%AE%E6%96%87%E6%B3%95 文法][https://dict.kaeru2193.net/ 辞書]
+|-
+| ヨングロ語  || 2021- || セセ<br />twitter: [https://twitter.com/decixhecto @decixhecto] ||  ||  ||  ||    
+|-
+| Qige語  || 2021- || セセ<br />twitter: [https://twitter.com/decixhecto @decixhecto] ||  ||  ||  ||    
 |-
 | ウィット語  || 2022-2023 || はちあ<br />twitter: [https://twitter.com/hachia_go @hachia_go] ||  ||  ||  ||    [https://zpdic.ziphil.com/dictionary/435 辞書]
 |-
@@ -1034,7 +1006,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | イオティエ語  || 2023 || See2et (しーぜっと), 佐藤陽花, クノーツ・アクア, Ziphil, かえる<br />twitter: [https://twitter.com/see2et @see2et], [https://scrapbox.io/Myulio-IoTie/ @Myulio-IoTie], [https://twitter.com/Ziphil @Ziphil], [https://twitter.com/Qunoxts @Qunoxts] ||  ||  ||  ||    [https://scrapbox.io/Myulio-IoTie/%E6%96%87%E6%B3%95%EF%BC%9A%E8%AA%9E%E9%A0%86%E3%81%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88 文法]
 |-
-| 人工言語Loggish  || 2023 || See2et (しーぜっと)<br />twitter: [https://twitter.com/see2et @see2et] || 自治型言語という概念を提案しているSee2etさんの未公開の言語(https://migdal.jp/see2et/%E6%94%B9%E3%82%81%E3%81%A6%E8%87%AA%E6%B2%BB%E5%9E%8B%E8%A8%80%E8%AA%9E%E3%81%A8%E3%81%AF-d27) ||  ||  ||    
+| Loggish  || 2023 || See2et (しーぜっと)<br />twitter: [https://twitter.com/see2et @see2et] || 自治型言語という概念を提案しているSee2etさんの未公開の言語(https://migdal.jp/see2et/%E6%94%B9%E3%82%81%E3%81%A6%E8%87%AA%E6%B2%BB%E5%9E%8B%E8%A8%80%E8%AA%9E%E3%81%A8%E3%81%AF-d27) ||  ||  ||    
 |-
 | メイシカク語  || 2022 || Xirdim<br />twitter: [https://twitter.com/xirdim @xirdim] || 未公開　<br />https://migdal.jp/xirdim/%E3%83%A1%E3%82%A4%E3%82%B7%E3%82%AB%E3%82%AF%E8%AA%9E%E3%81%AE%E6%A0%BC%E3%82%92%E7%B5%B1%E5%BB%83%E5%90%88%E3%81%97%E3%81%9F%E8%A9%B1%E3%81%AA%E3%81%A9-4n7c ||  ||  ||    
 |-
@@ -1184,7 +1156,7 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | ピペロル語  || 2023 || 結数 / Between Dimension ||  || Between Dimension ||  ||    
 |-
-| ウラジール語  || 2023 || インカラア || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%BC%E3%83%AB%E8%AA%9E#%E6%96%87%E6%B3%95|辞書]]
+| ウラジール語  || 2023 || インカラア || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%82%A6%E3%83%A9%E3%82%B8%E3%83%BC%E3%83%AB%E8%AA%9E#%E6%96%87%E6%B3%95 辞書]
 |-
 | パルタ語  || 2023 || 閲覧者 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B9)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    
 |-
@@ -1192,27 +1164,27 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | バフラディア語  || 2023 || Waka 92 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B12)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    
 |-
-| ストラヴァン語  || 2023 || オズン || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B13)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95|文法]][[mh:subspaceworld:%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%B3%E8%AA%9E#%E8%AA%9E%E5%BD%99|辞書]]
+| ストラヴァン語  || 2023 || オズン || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B13)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95 文法][https://subspaceworld.miraheze.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%B3%E8%AA%9E#%E8%AA%9E%E5%BD%99 辞書]
 |-
-| ヴァラリア語  || 2023 || Latina tan || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B14)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%AA%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ヴァラリア語  || 2023 || Latina tan || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B14)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%AA%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ナレジア語  || 2023 || Bekeng || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B15)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%8A%E3%83%AC%E3%82%B8%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ナレジア語  || 2023 || Bekeng || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B15)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%8A%E3%83%AC%E3%82%B8%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ゴトロスタン語  || 2023 || 三鷹楓 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B16)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%82%B4%E3%83%88%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95|文法]][[mh:subspaceworld:%E3%82%B4%E3%83%88%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E8%AA%9E#%E8%AA%9E%E5%BD%99|辞書]]
+| ゴトロスタン語  || 2023 || 三鷹楓 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B16)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%82%B4%E3%83%88%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95 文法][https://subspaceworld.miraheze.org/wiki/%E3%82%B4%E3%83%88%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%B3%E8%AA%9E#%E8%AA%9E%E5%BD%99 辞書]
 |-
-| ハーフェントラント語  || 2023 || Rikinnko || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B17)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%8F%E3%83%BC%E3%83%95%E3%82%A7%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%83%88%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ハーフェントラント語  || 2023 || Rikinnko || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B17)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%8F%E3%83%BC%E3%83%95%E3%82%A7%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%83%88%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| カンメネア語  || 2023 || Chamatsuri || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B18)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%82%AB%E3%83%B3%E3%83%A1%E3%83%8D%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| カンメネア語  || 2023 || Chamatsuri || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B18)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%82%AB%E3%83%B3%E3%83%A1%E3%83%8D%E3%82%A2%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ビチュワナ語  || 2023 || Latina tan || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B19)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%93%E3%83%81%E3%83%A5%E3%83%AF%E3%83%8A%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ビチュワナ語  || 2023 || Latina tan || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B19)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%93%E3%83%81%E3%83%A5%E3%83%AF%E3%83%8A%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| サンドラヤ語  || 2023 || 閲覧者 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B20)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%8E%E3%83%BC%E3%83%AB%E3%83%A9%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| サンドラヤ語  || 2023 || 閲覧者 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B20)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%8E%E3%83%BC%E3%83%AB%E3%83%A9%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ノールラ語  || 2023 || こーばる || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B21)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%95%E3%82%A7%E3%83%AB%E3%83%BC%E3%83%AA%E3%82%A8%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ノールラ語  || 2023 || こーばる || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B21)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%BC%E3%83%AA%E3%82%A8%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| レスコヴィ語  || 2023 || Chamatsuri || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B22)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%B4%E3%82%A3%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| レスコヴィ語  || 2023 || Chamatsuri || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B22)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%B4%E3%82%A3%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
-| ヨウハン語  || 2023 || Carbon13 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B23)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [[mh:subspaceworld:%E3%83%A8%E3%82%A6%E3%83%8F%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95|文法]]
+| ヨウハン語  || 2023 || Carbon13 || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B23)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://subspaceworld.miraheze.org/wiki/%E3%83%A8%E3%82%A6%E3%83%8F%E3%83%B3%E8%AA%9E#%E6%96%87%E6%B3%95 文法]
 |-
 | ガフィーク語<br />異称: , Qaffik'n jazak, ガフィーク通商語  || 2023 || Latina tan || 亜空世界wiki(https://subspaceworld.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B24)上での言語ページの立項者を作者と推定 || 亜空世界 ||  ||    [https://zpdic.ziphil.com/dictionary/1387 文法]
 |-
@@ -1382,14 +1354,67 @@ https://mikanixonable.github.io/data/conlang.csv
 |-
 | yTさんの言語  || 2019 || yT || 資料は残っていない ||  ||  ||    
 |-
-| ベーツェ語  || 2023 || ベーツェ語話者をあげさん<br />twitter: [https://twitter.com/woagesan @woagesan] ||  ||  ||  ||    |}
+| ベーツェ語  || 2023 || ベーツェ語話者をあげさん<br />twitter: [https://twitter.com/woagesan @woagesan] ||  ||  ||  ||    
+    |}
+    
 
+== 出典 ==
+* [http://dos.chottu.net/conlang_link.html?l=index 人工言語リスト 日本人による人工言語（アイウエオ順] - 2nd LVG IMG.The Second Living Image.
+** 2004年
 
-==関連項目==
-*[[架空世界]]
-*[[架空国家の一覧]]
+* [https://conlinguistics.org/link.html 人工言語リンク集] - 人工言語学
+** 2012年
 
-{{仮名|にほんのしんこうけんこいちらん}}
-[[Category:一覧]]
-[[Category:架空言語]]
-[[Category:人工言語]]
+* [https://conlinguistics.fandom.com/ja/wiki/%E8%A8%80%E8%AA%9E%E8%A8%98%E4%BA%8B%E4%B8%80%E8%A6%A7 言語記事一覧] - 人工言語wiki
+** 2016年ごろと思われる
+
+* [https://itest.5ch.net/test/read.cgi/twwatch/1513511369/ 人工言語界隈リスト] - 5ch
+** 2017-12-17
+
+* [https://docs.google.com/spreadsheets/d/1t_WxHJ_b39PWXIMauHwnSww_Ac2m_Mw7zC-vQkp59PQ/edit#gid=0 人工言語を作ってるor勉強してる人が少し分かるリスト] - Maycia Arenberg
+** 2018-02-24
+** 現在はリクエスト承認が必要という表示が出る
+** [https://x.com/mayciaarenberg/status/963447200087879680?s=46&t=rWvY73qZa5Ie23yU0UA6WA 紹介ツイート]
+** [https://twitter.com/jin_kou_gengo 人工言語クラスタフォロー]というこのリストに入っていたアカウントをフォローするアカウントがあったため、少し漏れがあるがリストを復元することができる。@2me_ma_sagiさんありがとう
+
+* [http://twoc.ever.jp/twoc/conlang.cgi?mode=list 辞書リスト] - The world of conlangs
+** 2020年ごろ
+
+* [https://sites.google.com/site/moyacilang/conlanglist 人工言語リスト] - slaimsan
+** たぶんもっとも網羅的
+** 2020年
+
+* [https://ziphil.com/other/other/1.html リンク集 人工言語] - Ziphil
+** 文法が確認できるものに絞って載せている
+** 2021年3月
+
+* [https://x.com/i/lists/994189952551346176 conlanger] - Mikanixonable
+** ツイッターの人工言語ラーのリスト
+** 2023年
+
+* [https://tanukipedia.miraheze.org/wiki/%E6%9E%B6%E7%A9%BA%E8%A8%80%E8%AA%9E 架空言語] - Tanukipedia (タヌキペディア) 
+** 2023年
+
+* [https://sites.google.com/view/ryuuka/k-ren-gong-yan-yurinku-ji?authuser=0 人工言語 柳霞] - J．人工言語リンク集
+** 2020年ごろ?
+
+* [https://japan.fandom.com/wiki/%E6%9E%B6%E7%A9%BA%E3%81%AE%E8%A8%80%E8%AA%9E%E4%B8%80%E8%A6%A7 架空の言語一覧] - 架空の言語一覧 | Japan | Fandom
+
+* [https://w.atwiki.jp/kakis/pages/5471.html#id_1b7f8ccd アーカイブ] - atwiki（アットウィキ） 
+
+* [https://sites.google.com/site/faraspalt/links?authuser=0 Faras' Room] - Links 
+
+* [https://w.atwiki.jp/kursodeesperanto/pages/36.html アルカ-リンク] - はじめてのエスペラント - atwiki（アットウィキ）  
+
+* [https://w.atwiki.jp/koreori/ 世界模擬実験塔設定集] - atwiki（アットウィキ） 
+
+== 関連項目 ==
+* [[人工言語の一覧]]
+* [[人工言語の一覧 (世界別)]]
+* [[人工言語の漢字表記一覧]]
+
+{{DEFAULTSORT:にほんこけんのじんこうけんこいちらんひよう}}
+
+[[カテゴリ:一覧記事|*]]
+[[カテゴリ:人工言語の一覧|*]]
+
