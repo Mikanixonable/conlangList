@@ -35,8 +35,8 @@ def csv2dic(file_path):
 
 
 def dic2md(dic):
-    md = '|言語名|活動年代|作者|'
-    md += '\n|---|---|---|'
+    md = '|言語名|活動年代|作者|  '
+    md += '\n|---|---|---|  '
     for lang in dic:
         name = ''
         if 'サイト' in lang:
@@ -87,8 +87,7 @@ def dic2md(dic):
                 for i in range(len(lang['辞書']) - 1):
                     links+= '([辞書{i}]({a}))'.format(i=str(i+2),a = lang['辞書'][i+1])
 
-        md +="\n|{a}{d}|{b}|{c}|".format(a=name,b=year,c=artist,d=links)
-        md+="|  "
+        md +="\n|{a}{d}|{b}|{c}|  ".format(a=name,b=year,c=artist,d=links)
     return md
 
 
