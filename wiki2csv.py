@@ -35,8 +35,8 @@ def csv2dic(file_path):
 
 
 def dic2md(dic):
-    md = '|言語名|活動年代|作者|  '
-    md += '\n|---|---|---|  '
+    md = '|言語名|活動年代|作者|'
+    md += '\n|---|---|---|'
     for lang in dic:
         name = ''
         if 'サイト' in lang:
@@ -87,23 +87,21 @@ def dic2md(dic):
                 for i in range(len(lang['辞書']) - 1):
                     links+= '([辞書{i}]({a}))'.format(i=str(i+2),a = lang['辞書'][i+1])
 
-        md +="\n|{a}{d}|{b}|{c}|  ".format(a=name,b=year,c=artist,d=links)
+        md +="\n|{a}{d}|{b}|{c}|".format(a=name,b=year,c=artist,d=links)
+        md+="|  "
     return md
 
 
 md = """
 
-# 日本語圏人工言語リスト6版(2023-12-25)
+# 日本語圏人工言語リスト5版(2023年12月)
 　日本語圏の人工言語のリストが最近作られていないと思ったので、底となるリストを参考に、新しい言語も合わせてつくったものです。リストのすべての言語の情報は私がアクセスして確認しなおしています。
-　このリストは後で作るリストのための下準備という位置づけで、人工言語として言及されているものは見つけ次第すべて入れています。そのため、創作世界の設定に名前だけ登場するような言語や、ツイッター上で思い付きで作られた言語も含んでいます。  
-　言語の説明やCLAコードの入った生データは以下のリンクからアクセスできます。csv(コンマ区切り値)形式であり、Excelから開けます。私は著作権を放棄するので、利用したい方は使ってください。  
+　このリストは後で作るリストのための下準備という位置づけで、人工言語として言及されているものは見つけ次第すべて入れています。そのため、創作世界の設定に名前だけ登場するような言語や、ツイッター上で思い付きで作られた言語も含んでいます。
+　言語の説明やCLAコードの入った生データは以下のリンクからアクセスできます。tsv(タブ区切り値)形式であり、Excelから開けます。私は著作権を放棄するので、利用したい方は使ってください。
 
-参照用url: https://mikanixonable.github.io/conlangList/conlang.csv  
-GitHub:  https://github.com/Mikanixonable/conlangList/blob/main/conlang.csv  
-更新履歴(GitHub): https://github.com/Mikanixonable/conlangList/commits/main/conlang.csv  
-
-6版からMigdal ConLang Wikiの記事[日本語圏の人工言語の一覧表](https://migdal.miraheze.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%9C%8F%E3%81%AE%E4%BA%BA%E5%B7%A5%E8%A8%80%E8%AA%9E%E3%81%AE%E4%B8%80%E8%A6%A7%E8%A1%A8)で編集可能になりました。今後Migdal ConLang Wikiを最新版として編集しようと思うので、Migdalでの更新頻度が遅くなったり、修正を受け付けないかもしれません。すぐに修正したい項目があればMigdal ConLang Wikiで直接編集してください。
-
+参照用url: https://mikanixonable.github.io/conlangList/conlang.csv
+GitHub:  https://github.com/Mikanixonable/conlangList/blob/main/conlang.csv
+更新履歴(GitHub): https://github.com/Mikanixonable/conlangList/commits/main/conlang.csv
 
 ## 更新履歴
 1版 2023-12-17
@@ -111,7 +109,6 @@ GitHub:  https://github.com/Mikanixonable/conlangList/blob/main/conlang.csv
 3版 2023-12-19
 4版 2023-12-21
 5版 2023-12-23
-6版 2023-12-25
 
 ## Babel Index Viewerの紹介
 [かえる](https://twitter.com/kaeru2193)さんが、人工言語リストの検索システムを作ってくれました!この検索システムでは説明欄やモユネ分類など、この表では表示の都合上省いている要素も調べることができます。
@@ -182,7 +179,7 @@ for lang in dic:
     if '年代' not in lang:
         print(lang['言語名'])
 # pprint(dic)
-dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
+# dic = sorted(dic, key=lambda x: int(x['年代'][0][0:4]))
 print(len(dic))
 
 
@@ -196,5 +193,5 @@ md += """
 2023年12月 Mikanixonable
 """
 
-with open("conlang.md", 'w', encoding='utf-8') as file:
+with open("notsort.md", 'w', encoding='utf-8') as file:
     file.write(md)
