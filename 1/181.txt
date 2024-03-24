@@ -1,0 +1,197 @@
+[[./index|ホーム]]　[[144|ロビー]]　[[128|人工言語ハブ]]
+
+= 人工言語界隈論年表 =
+
+{| class="wikitable"
+|-
+! 日付
+! リンク
+|-
+| 1991-7-19
+| 人工言語アルカの架空の制作開始年月日
+|-
+| 1993年秋
+| アルカの書での人工言語アルカ[https://conlinguistics.org/blog/?p=689 製作開始]
+|-
+| 2008-07-21
+| @chs上に[https://jinkougengoarka.wiki.fc2.com/wiki/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8 人工言語アルカ板]が開設、2015-05-31@chsサービスの終了に伴い閉鎖
+|-
+| 2005-10-24
+| 人工言語について語りましょう part1でインターネット上で初めて人工言語アルカが言及される
+|-
+|
+|
+|-
+| 2011
+| リパライン語製作開始
+|-
+| 2011ごろ
+| [https://conlinguistics.org/create/ 人工言語の作り方]
+|-
+| 2011-11
+| したらば上に初代[https://jbbs.shitaraba.net/study/11532/ 人工言語掲示板]開設、2013年6月ごろまで使われる。[https://conlangarchive.wiki.fc2.com/ アーカイブ]
+|-
+| 2012年1月
+| シャレイア語製作開始
+|-
+|
+|
+|-
+|
+|
+|-
+| 2013-03-21
+| [https://togetter.com/li/475056 人工言語と文化（共通認識）と齟齬【エスペラントとアルカ】 - Togetter]
+|-
+| 2013-05-23
+| 人工言語アルカの作者セレン・アルバザード氏が、同月21日の殺人未遂容疑で[https://www.nikkei.com/article/DGXNASDG2305O_T20C13A5CC1000/ 逮捕]される
+|-
+| 2013年6月
+| [https://jbbs.shitaraba.net/study/11532/ 人工言語掲示板]閉鎖
+|-
+| 2013-12-03
+| [https://togetter.com/li/598207 nuluyo問題とは - Togetter]
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+| 2014年4月ごろ
+| したらば上に[https://jbbs.shitaraba.net/study/12068/ 人工言語掲示板2]が開設、[https://web.archive.org/web/20171230064925/http://jbbs.shitaraba.net:80/study/12068/ 2017年12月]ごろまで使われる
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+| 2015-05-31
+| @chsサービスの終了に伴い[https://jinkougengoarka.wiki.fc2.com/wiki/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8 人工言語アルカ板]閉鎖
+|-
+| 2015-07-21
+| CLA v1運用開始
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+| 2017-03-08
+| [https://togetter.com/li/1088421 【人工言語】セレンさんがアルカに復帰するそうです。【アルカ】 - Togetter]
+|-
+| 2017-09-16
+| [https://togetter.com/li/1151293 悠里とFAFssの関係について - Togetter]
+|-
+| 2017-09-20
+| nymwaさんが、かつて掲示板で活動したhelteさんと同一人物であること明かす
+|-
+| 2017-09-20
+| [https://togetter.com/li/1152877 ようじょ語 - Togetter]
+|-
+| 2017-09-21
+| [https://togetter.com/li/1153103 個人と界隈 - Togetter]
+|-
+| 2017-10-03
+| [https://togetter.com/li/1157118 人工言語共通にセレニズムが適用されるという事実誤認 - Togetter]
+|-
+| 2017-11-25
+| [https://togetter.com/li/1174983 エスペラント話者が「人工言語」と言うのは勉強不足で害悪？ - Togetter]
+|-
+| 2017年12月
+| [https://jbbs.shitaraba.net/study/12068/ 人工言語掲示板2]閉鎖
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+| 2018-07-06
+| [https://togetter.com/li/1244080 異世界でひたすら言語習得するラノベ『異世界語入門～転生したけど日本語が通じなかった～』が面白そう「外大生として求めていたラノベはこれ」 - Togetter]
+|-
+|
+|
+|-
+|
+|
+|-
+|
+|
+|-
+| 2019-06-06
+| [https://togetter.com/li/1363644 OTM形式誕生の経緯 - Togetter]
+|-
+| 2020-04-13
+| [https://note.com/tormis_narno/n/n36dc29139b9d 人工世界・言語考#001：言語普遍的特性は人工言語制作における制約と見なされるか　中野智宏／Tormis Narno]
+|-
+| 2020-08-12
+| [https://web.archive.org/web/20200919125424/https://kakuyomu.jp/works/1177354054918417198/episodes/1177354054918460885 ＃０　巨人・加速・死者 - 他者性の人工言語論（Fafs F. Sashimi） - カクヨム]（#1,#2はアーカイブなし）
+|-
+| 2020-08-13
+| [https://zaslon.info/2719/ Starlight Ensign » Blog Archive » 計測への恐怖とアルカの残滓]
+|-
+| 2020-08-13
+| [https://note.com/tormis_narno/n/n4699d873e718 人工世界・言語考#002　創作の個別性と集団性についての独自見解　中野智宏／Tormis Narno]
+|-
+| 2020-08-13
+| [https://note.com/pianists/n/n2f77259bdd36 架空世界創作論　ぴあにすつ]
+|-
+| 2020-08-14
+| [https://iuk.hateblo.jp/entry/2020/08/14/000752 人工言語って虚無じゃないですか（お気持ち創作論） - ゆくゆくは有へと]
+|-
+| 2020-08-14
+| [https://togetter.com/li/1575819 『他者性の人工言語論』反応まとめ - Togetter]
+|-
+| 2020-09-25
+| [https://togetter.com/li/1597466 新生アルカまでのまとめ - Togetter]
+|-
+| 2020-09-16
+| [https://togetter.com/li/1593111 セレニズムの源流を読み込む - Togetter]
+|-
+| 2021-06-26
+| [https://togetter.com/li/1736467 オ゛ェｼﾞｭルニョェーッ語の世界 - Togetter]
+|-
+| 2021-08-03
+| [https://togetter.com/li/1754196 謎の言語を話すTwitterアカウントのツイートを解読する会 - Togetter]
+|-
+| 2021-08-03
+| 最後のCLA v1登録
+|-
+| 2021-08-20
+| CLA v2をもとに佐藤陽花氏、Ziphil氏、 Xirdim氏,、フルヒト氏を始めとするメンバーによってCLA v3の大枠が決まる[https://twitter.com/Distr_to_Yonder/status/1428400052658053120 1]
+|-
+| 2021-08-31
+| Ziphil氏によりCLA v3の申請、閲覧サイトであるconlang portalが開設される[https://twitter.com/Ziphil/status/1432665606034116616?s=20 1]
+|-
+| 2021-09-01
+| CLA v1の申請受付が停止される[https://twitter.com/oka_iu_tcan/status/1433031033008525312 1]
+|-
+| 2021-09-02
+| [https://github.com/CL-KIITA/CLACode_SRI/blob/conla/docs/spec/cla_code.md CLA v3仕様書]が公開された
+|}
+
+[[./index|ホーム]]　[[144|ロビー]]　[[128|人工言語ハブ]]
